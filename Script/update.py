@@ -29,10 +29,10 @@ def get_rss():
     """
     try:
         feed = feedparser.parse(FEED_URL)
-        print("# Get RSS successfully!")
+        print("# Get RSS successfully!\n")
         return feed
     except Exception as e:
-        print('# Get RSS ERROR!')
+        print('# Get RSS ERROR!\n')
         print(e)
 
 
@@ -53,13 +53,13 @@ def parse_rss(fp):
             # struct_time -> timestamp -> datetime
             publish_time = datetime.fromtimestamp(time.mktime(single_post.get('published_parsed')))
             publish_time += timedelta(hours=8)  # 转换为UTC+8
-            tz = timezone('Asia/Shanghai')
-            publish_time = publish_time.astimezone(tz)
+            # tz = timezone('Asia/Shanghai')
+            # publish_time = publish_time.astimezone(tz)
             post['publishTime'] = publish_time.strftime(TIME_FORMAT)  # 发布时间
 
             update_time = datetime.fromtimestamp(time.mktime(single_post.get('updated_parsed')))
             update_time += timedelta(hours=8)  # 转换为UTC+8
-            update_time = update_time.astimezone(tz)
+            # update_time = update_time.astimezone(tz)
             post['updateTime'] = update_time.strftime(TIME_FORMAT)  # 更新时间
 
             post['category'] = single_post.get('tags')
@@ -67,11 +67,11 @@ def parse_rss(fp):
             if post:
                 posts.append(post)
         except Exception as e:
-            print("# Parse RSS ERROR!")
+            print("# Parse RSS ERROR!\n")
             print(e)
 
     posts.sort(key=lambda x: x['publishTime'], reverse=True)  # Sort posts according to their published time.
-    print("# Parse RSS successfully! (Total: {} posts)".format(len(posts)))
+    print("# Parse RSS successfully! (Total: {} posts)\n".format(len(posts)))
     return posts
 
 
@@ -102,7 +102,7 @@ def generate_markdown(posts_: list, generate_time):
     env = Environment(loader=FileSystemLoader('./templates'))
     template = env.get_template('md_archives.j2')
     content = template.render(posts=posts_, generate_time=generate_time)
-    print("# Generate Markdown successfully!")
+    print("# Generate Markdown successfully!\n")
     return content
 
 
@@ -117,20 +117,12 @@ def generate_json_and_save(posts_: list, generate_time):
     temp['data'] = posts_
     temp['generate_time'] = generate_time
     content = json.dumps(temp, ensure_ascii=False)
-    print("# Generate JSON successfully!")
+    print("# Generate JSON successfully!\n")
 
     # Save to json file
     with open('./data.json', 'w', encoding='utf-8') as f:
         f.write(content)
-
-
-# def save_to_json_file(content: str):
-#     """
-#     Save contents to `data.json` file.
-#     :param content: {str} raw string of output file.
-#     """
-#     with open('./data.json', 'w', encoding='utf-8') as f:
-#         f.write(content)
+    print("# Save to JSON file successfully!\n")
 
 
 def save_to_md_file(content_: str):
@@ -140,6 +132,7 @@ def save_to_md_file(content_: str):
     """
     with open('../README.md', 'w', encoding='utf-8') as f:
         f.write(content_)
+    print("# Save to Markdown file successfully!\n")
 
 
 if __name__ == "__main__":
