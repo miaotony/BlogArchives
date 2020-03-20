@@ -28,9 +28,12 @@
 
 {% for single_post in posts %}
 ### {{single_post.title}}  
-
+{%- if single_post.category %}
+{% for single_category in single_post.category %}[#{{single_category['term']}}]({{single_category['scheme']}})   {% endfor %}
+{%- endif %}
 {{single_post.publishTime}}  
 [{{single_post.link}}]({{single_post.link}})  
+
 {{single_post.summary}}  
 
 {% endfor %}
