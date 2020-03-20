@@ -35,7 +35,7 @@ Issues or/and PRs are welcome~
 
 ## Archives  
 
-**Update Time:** 2020-03-21 01:14 UTC+8
+**Update Time:** 2020-03-21 02:01 UTC+8
 
 
 ### CTF | XCTF高校战“疫”网络安全分享赛 WriteUp
