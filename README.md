@@ -1,8 +1,19 @@
 # Archives of MiaoTony's Blog  
 
+![Update Archives](https://github.com/miaotony/BlogArchives/workflows/Update%20Archives/badge.svg)  
+
 ## Description  
 
-博客文章归档，基于 GitHub Action 定期自动更新。  
+博客文章归档，爬取并解析 [RSS 数据](https://miaotony.xyz/atom.xml)，建立本地存档，基于 GitHub Action 定期自动更新。  
+脚本详见 `Script` 目录。  
+
+This is Article Archives of MiaoTony's Blog.  
+Crawl and parse [RSS data](https://miaotony.xyz/atom.xml), then establish local archive.   
+Update automatically on a regular basis based on GitHub Action.  
+See `Script` directory for script details.   
+
+**TODO list:** [https://github.com/miaotony/BlogArchives/issues/1](https://github.com/miaotony/BlogArchives/issues/1)  
+Issues or/and PRs are welcome~   
 
 欢迎光临我的博客呀~ [https://miaotony.xyz](https://miaotony.xyz)  
 
@@ -24,7 +35,7 @@
 
 ## Archives  
 
-**Update Time:** 2020-03-21 00:05 UTC+8
+**Update Time:** 2020-03-21 01:14 UTC+8
 
 
 ### CTF | XCTF高校战“疫”网络安全分享赛 WriteUp
@@ -263,7 +274,7 @@ Asuri 招新赛 WriteUP 20191117
 
 博客文章（除特别声明外）： [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
 本项目： [GNU Affero General Public License v3.0](https://github.com/miaotony/BlogArchives/blob/master/LICENSE)  
-> Acknowledgment:   
+> **Acknowledgment:**   
 > 项目开发过程中部分参考了 LogicJake 的 [rss-flow](https://github.com/LogicJake/rss-flow)，在此表示感谢。   
 
 最终解释权归本项目开发者所有。  
