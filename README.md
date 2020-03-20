@@ -20,11 +20,11 @@
 
 **欢迎大佬们来和我交换[友链](https://miaotony.xyz/friends)呀~**  
 
-留言请移步到[留言板](https://miaotony.xyz/contact)，谢谢。  
+更多信息请前往[关于页面](https://miaotony.xyz/about/)，留言请移步到[留言板](https://miaotony.xyz/contact)，谢谢。  
 
 ## Archives  
 
-**Update Time:** 2020-03-20 03:21 UTC+8  
+**Update Time:** 2020-03-20 22:09 UTC+8
 
 
 ### CTF | XCTF高校战“疫”网络安全分享赛 WriteUp  
@@ -235,6 +235,8 @@ Asuri 招新赛 WriteUP 20191117
 
 博客文章（除特别声明外）： [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  
 本项目： [GNU Affero General Public License v3.0](https://github.com/miaotony/BlogArchives/blob/master/LICENSE)  
+> Acknowledgment:   
+> 项目开发过程中部分参考了 LogicJake 的 [rss-flow](https://github.com/LogicJake/rss-flow)，在此表示感谢。   
 
 最终解释权归本项目开发者所有。  
 The final interpretation right belongs to the developer of the project.  

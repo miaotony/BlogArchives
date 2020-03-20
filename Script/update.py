@@ -15,35 +15,63 @@ import time
 from datetime import timedelta, datetime
 from pytz import timezone
 from jinja2 import Environment, FileSystemLoader
+import json
+import copy
 
 TIME_FORMAT = '%Y-%m-%d %H:%M UTC+8'
 FEED_URL = 'https://miaotony.xyz/atom.xml'
 
 
-def parse_rss():
+def get_rss():
     """
-    Parse RSS & Generate a post list.
+    Get RSS.
+    :return: {FeedParserDict} feed: all feed info.
+    """
+    try:
+        feed = feedparser.parse(FEED_URL)
+        print("# Get RSS successfully!")
+        return feed
+    except Exception as e:
+        print('# Get RSS ERROR!')
+        print(e)
+
+
+def parse_rss(fp):
+    """
+    Parse RSS & Generate a list of posts.
+    :param fp: {FeedParserDict} all feed info.
     :return: {list} posts, a list of all posts.
     """
-    fp = feedparser.parse(FEED_URL)
     posts = []
     for single_post in fp.entries:
         post = dict()
-        post['title'] = single_post.get('title')
-        post['link'] = single_post.get('link')
-        post['summary'] = single_post.get('summary')  # 摘要
+        try:
+            post['title'] = single_post.get('title')
+            post['link'] = single_post.get('link')
+            post['summary'] = single_post.get('summary')  # 摘要
 
-        # struct_time -> timestamp -> datetime
-        publish_time = datetime.fromtimestamp(time.mktime(single_post.published_parsed))
-        publish_time += timedelta(hours=8)  # 转换为UTC+8
-        tz = timezone('Asia/Shanghai')
-        publish_time = publish_time.astimezone(tz)
-        post['publishTime'] = publish_time.strftime(TIME_FORMAT)  # 发布时间
+            # struct_time -> timestamp -> datetime
+            publish_time = datetime.fromtimestamp(time.mktime(single_post.get('published_parsed')))
+            publish_time += timedelta(hours=8)  # 转换为UTC+8
+            tz = timezone('Asia/Shanghai')
+            publish_time = publish_time.astimezone(tz)
+            post['publishTime'] = publish_time.strftime(TIME_FORMAT)  # 发布时间
 
-        post['category'] = single_post.get('tags')
-        # print(post)
-        posts.append(post)
-    posts.sort(key=lambda x: x['publishTime'], reverse=True)  # Sort according to publish time
+            update_time = datetime.fromtimestamp(time.mktime(single_post.get('updated_parsed')))
+            update_time += timedelta(hours=8)  # 转换为UTC+8
+            update_time = update_time.astimezone(tz)
+            post['updateTime'] = update_time.strftime(TIME_FORMAT)  # 更新时间
+
+            post['category'] = single_post.get('tags')
+            print(post)
+            if post:
+                posts.append(post)
+        except Exception as e:
+            print("# Parse RSS ERROR!")
+            print(e)
+
+    posts.sort(key=lambda x: x['publishTime'], reverse=True)  # Sort posts according to their published time.
+    print("# Parse RSS successfully! (Total: {} posts)".format(len(posts)))
     return posts
 
 
@@ -64,31 +92,64 @@ def parse_rss():
 # 'tag': {'term': 'WriteUp', 'scheme': 'https://miaotony.xyz/tags/WriteUp/'}}
 
 
-def generate_markdown(posts: list):
+def generate_markdown(posts_: list, generate_time):
     """
     Generate contents for Markdown file.
-    :param posts: a list of all posts.
+    :param posts_: {list} a list of all posts.
+    :param generate_time: {datetime}
     :return: content {str}
     """
-    now_time = datetime.utcnow() + timedelta(hours=8)
-    now_time = now_time.strftime(TIME_FORMAT)
-
     env = Environment(loader=FileSystemLoader('./templates'))
     template = env.get_template('md_archives.j2')
-    contents = template.render(posts=posts, updateTime=now_time)
-    return contents
+    content = template.render(posts=posts_, generate_time=generate_time)
+    print("# Generate Markdown successfully!")
+    return content
 
 
-def save_to_file(content: str):
+def generate_json_and_save(posts_: list, generate_time):
     """
-    Save contents to `README.md` file.
-    :param content: {str} raw string of output file.
+    Generate contents for JSON file. And save contents to `data.json` file.
+    :param posts_: a list of all posts.
+    :param generate_time: {datetime}
+    # :return: content {str}
     """
-    with open('../README.md', 'w', encoding='utf-8') as f:
+    temp = dict()
+    temp['data'] = posts_
+    temp['generate_time'] = generate_time
+    content = json.dumps(temp, ensure_ascii=False)
+    print("# Generate JSON successfully!")
+
+    # Save to json file
+    with open('./data.json', 'w', encoding='utf-8') as f:
         f.write(content)
 
 
+# def save_to_json_file(content: str):
+#     """
+#     Save contents to `data.json` file.
+#     :param content: {str} raw string of output file.
+#     """
+#     with open('./data.json', 'w', encoding='utf-8') as f:
+#         f.write(content)
+
+
+def save_to_md_file(content_: str):
+    """
+    Save contents to `README.md` file.
+    :param content_: {str} raw string of output file.
+    """
+    with open('../README.md', 'w', encoding='utf-8') as f:
+        f.write(content_)
+
+
 if __name__ == "__main__":
-    posts = parse_rss()
-    content = generate_markdown(posts)
-    save_to_file(content)
+    fp = get_rss()
+    if fp:
+        posts = parse_rss(fp)
+
+        now_time = datetime.utcnow() + timedelta(hours=8)
+        now_time = now_time.strftime(TIME_FORMAT)
+
+        content = generate_markdown(posts, now_time)
+        generate_json_and_save(posts, now_time)
+        save_to_md_file(content)
