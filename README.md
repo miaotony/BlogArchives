@@ -35,7 +35,15 @@ Issues or/and PRs are welcome~
 
 ## Archives  
 
-**Update Time:** 2020-03-23 20:07 UTC+8
+**Update Time:** 2020-03-24 08:12 UTC+8
+
+
+### CTF | BJDCTF 2nd WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-03-23 19:30 UTC+8  
+[https://miaotony.xyz/2020/03/23/CTF_BJDCTF2nd/](https://miaotony.xyz/2020/03/23/CTF_BJDCTF2nd/)  
+
+划水划水~周末水了一下BJDCTF 2nd，据说是萌新赛，于是来玩了一下，嗯让我知道了我的确就是萌新。  
 
 
 ### CTF | XCTF高校战“疫”网络安全分享赛 WriteUp
