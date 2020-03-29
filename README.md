@@ -35,7 +35,15 @@ Issues or/and PRs are welcome~
 
 ## Archives  
 
-**Update Time:** 2020-03-28 20:07 UTC+8
+**Update Time:** 2020-03-29 08:13 UTC+8
+
+
+### 基于acme.sh从Let's encrypt生成免费且自动更新的SSL证书
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-03-28 20:30 UTC+8  
+[https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/](https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/)  
+
+通过Let's encrypt可以获得90天免费且可续期的SSL证书，而利用acme.sh可以自动生成和更新，这篇文章就来介绍一下配置的过程吧。  
 
 
 ### CTF | BJDCTF 2nd WriteUp
