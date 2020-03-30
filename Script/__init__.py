@@ -3,5 +3,5 @@
 
 __author__ = 'MiaoTony'
 
-__version__ = 'V1.0'
+__version__ = 'V1.1'
 VERSION = __version__

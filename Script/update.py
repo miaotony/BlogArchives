@@ -101,7 +101,7 @@ def generate_markdown(posts_: list, generate_time):
     """
     env = Environment(loader=FileSystemLoader('./templates'))
     template = env.get_template('md_archives.j2')
-    content = template.render(posts=posts_, generate_time=generate_time)
+    content = template.render(posts=posts_)
     print("# Generate Markdown successfully!\n")
     return content
 
@@ -115,7 +115,7 @@ def generate_json_and_save(posts_: list, generate_time):
     """
     temp = dict()
     temp['data'] = posts_
-    temp['generate_time'] = generate_time
+    # temp['generate_time'] = generate_time
     content = json.dumps(temp, ensure_ascii=False)
     print("# Generate JSON successfully!\n")
 
