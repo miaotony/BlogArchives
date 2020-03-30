@@ -35,8 +35,6 @@ Issues or/and PRs are welcome~
 
 ## Archives  
 
-**Update Time:** 2020-03-30 08:13 UTC+8
-
 
 ### 基于acme.sh从Let's encrypt生成免费且自动更新的SSL证书
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
