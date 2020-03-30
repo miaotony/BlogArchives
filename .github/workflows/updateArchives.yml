@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   push:
     branches: [ master ]
+    paths: 
+      - 'Script/**'
+      - '.github/workflows/**'
 
 
 jobs:
@@ -34,7 +37,8 @@ jobs:
       run: |
         git config --local user.email "BlogArchives@github.com"
         git config --local user.name "BlogArchivesBot"
-        git commit -m "Update Archives." -a
+        git add .
+        git commit -m "Update Archives." || true
         
     - name: Push changes
       uses: ad-m/github-push-action@master
