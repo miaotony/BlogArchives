@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### 数据科学 | 十分钟入门pandas/常用方法笔记
+[#DataScience](https://miaotony.xyz/categories/DataScience/)   
+2020-04-17 00:00 UTC+8  
+[https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/](https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/)  
+
+最近对数据科学有点感兴趣，正好要用到pandas，于是就翻译了一下官方的10 Minutes to pandas，顺便记了点笔记吧。  
+
+
 ### 基于acme.sh从Let's encrypt生成免费且自动更新的SSL证书
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2020-03-28 20:30 UTC+8  
