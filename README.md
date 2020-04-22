@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 Ha1cyon_CTF公开赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-04-21 23:00 UTC+8  
+[https://miaotony.xyz/2020/04/21/CTF_2020Ha1cyonCTF/](https://miaotony.xyz/2020/04/21/CTF_2020Ha1cyonCTF/)  
+
+周末看了一下Ha1cyon_CTF“萌新”公开赛的题目，发现是一个难到爆炸的蹲WP劝退比赛。就写写部分WP，再来点小体会吧。  
+
+
 ### 数据科学 | 十分钟入门pandas/常用方法笔记
 [#DataScience](https://miaotony.xyz/categories/DataScience/)   
 2020-04-17 00:00 UTC+8  
