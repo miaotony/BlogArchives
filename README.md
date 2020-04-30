@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### Ubuntu16.04配置TensorFlow-vGPU环境
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-04-29 21:20 UTC+8  
+[https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/](https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/)  
+
+折腾了一个下午，终于在Ubuntu 16.04系统上配置好了TensorFlow的vGPU环境，主要涉及显卡驱动、CUDA、Anaconda、Tensorflow-gpu安装等，这里来做一下笔记喵。  
+
+
 ### CTF | 2020 DASCTF 四月春季战 Re&Misc WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-04-25 21:00 UTC+8  
