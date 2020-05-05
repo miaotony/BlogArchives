@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 De1CTF Misc Chowder WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-05-04 19:30 UTC+8  
+[https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/](https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/)  
+
+这几天有个 De1CTF，结束前来看了一眼题目，做了个Misc杂烩题，还是挺有意思的。顺便来总结一下关于 NTFS 交换数据流的相关应用吧。  
+
+
 ### Ubuntu16.04配置TensorFlow-vGPU环境
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2020-04-29 21:20 UTC+8  
@@ -305,14 +313,6 @@ Asuri 招新赛 WriteUP 20191117
 [https://miaotony.xyz/2019/03/21/Idea_python-docx/](https://miaotony.xyz/2019/03/21/Idea_python-docx/)  
 
 利用python-docx库批量提取Word中的信息，而后写入csv文件，进而导入Excel表格。  
-
-
-### 小想法 | 基于PushBear API实现微信消息推送
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-03-07 22:39 UTC+8  
-[https://miaotony.xyz/2019/03/07/Idea_PushBearAPI_WeChatPush/](https://miaotony.xyz/2019/03/07/Idea_PushBearAPI_WeChatPush/)  
-
-调用PushBear API，实现微信消息推送，同时用tkinter做了一个GUI界面。  
 
 
 
