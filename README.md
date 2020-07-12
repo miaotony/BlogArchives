@@ -41,7 +41,7 @@ Issues or/and PRs are welcome~
 2020-07-11 23:50 UTC+8  
 [https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
 
-最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的端口I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
+最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
 
 
 ### CTF | 2020 NUAACTF 吸喵喵队 Writeup
