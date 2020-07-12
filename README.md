@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
+[#tips](https://miaotony.xyz/categories/tips/)   
+2020-07-11 23:50 UTC+8  
+[https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
+
+最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的端口I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
+
+
 ### CTF | 2020 NUAACTF 吸喵喵队 Writeup
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-05-30 22:00 UTC+8  
@@ -305,14 +313,6 @@ Asuri 招新赛 WriteUP 20191117
 [https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/](https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/)  
 
 大创要测数据，就是太枯燥了8，效率还低。不如py一下写个自动执行的，说写就写呗！  
-
-
-### 第一篇 随便写写
-[#Blog](https://miaotony.xyz/categories/Blog/)   
-2019-07-09 18:45 UTC+8  
-[https://miaotony.xyz/2019/07/09/FirstBlog/](https://miaotony.xyz/2019/07/09/FirstBlog/)  
-
-第一篇blog，随便写点东西吧~  
 
 
 
