@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 CISCN初赛 Z3&LFSR WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-08-27 23:00 UTC+8  
+[https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/](https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/)  
+
+水了一波CISCN线上初赛，这里来写一写Z3和LFSR这两题的WP，顺便记录一下用到的z3、SageMath求解工具。  
+
+
 ### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
 [#tips](https://miaotony.xyz/categories/tips/)   
 2020-07-11 23:50 UTC+8  
@@ -305,14 +313,6 @@ Asuri 招新赛 WriteUP 20191117
 [https://miaotony.xyz/2019/08/18/Park_at_ease/](https://miaotony.xyz/2019/08/18/Park_at_ease/)  
 
 自己用来练手的Python小项目啦。  
-
-
-### 小想法 | 基于模拟点击实现数据自动测量
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-07-10 11:20 UTC+8  
-[https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/](https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/)  
-
-大创要测数据，就是太枯燥了8，效率还低。不如py一下写个自动执行的，说写就写呗！  
 
 
 
