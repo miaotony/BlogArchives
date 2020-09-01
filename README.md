@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 GACTF 一点点WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-08-31 19:30 UTC+8  
+[https://miaotony.xyz/2020/08/31/CTF_2020GACTF/](https://miaotony.xyz/2020/08/31/CTF_2020GACTF/)  
+
+这几天有个GACTF，随意来看看题目，就佛系做了几个题嘤嘤嘤，顺便来学点东西吧。  
+
+
 ### CTF | 2020 CISCN初赛 Z3&LFSR WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-08-27 23:00 UTC+8  
@@ -305,14 +313,6 @@ Asuri 招新赛 WriteUP 20191117
 [https://miaotony.xyz/2019/08/29/typora_tips/](https://miaotony.xyz/2019/08/29/typora_tips/)  
 
 记录一些关于typora的快捷键，不记得了就来找找吧。  
-
-
-### 小想法 | 开源一个自己的Python小项目「Park at ease」停车场管理系统
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-08-18 20:13 UTC+8  
-[https://miaotony.xyz/2019/08/18/Park_at_ease/](https://miaotony.xyz/2019/08/18/Park_at_ease/)  
-
-自己用来练手的Python小项目啦。  
 
 
 
