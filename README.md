@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### 环境搭建之更换软件源汇总(Ubuntu/pip/Anaconda/Docker等)
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-09-25 22:30 UTC+8  
+[https://miaotony.xyz/2020/09/25/Server_ChangeSource/](https://miaotony.xyz/2020/09/25/Server_ChangeSource/)  
+
+最近搭建环境又要折腾一堆换源，正好就来汇总一下各种换源好了。  
+
+
 ### CTF | 2020 GACTF 一点点WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-08-31 19:30 UTC+8  
@@ -65,7 +73,7 @@ Issues or/and PRs are welcome~
 2020-05-30 22:00 UTC+8  
 [https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/](https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/)  
 
-期待已久的NUAACTF终于来了呀！玩(头)耍(秃)了一个下午，整体而言难度还好，最后终于冲到了校内第二，感觉好棒啊！  
+期待已久的NUAACTF终于来了呀！玩(头)耍(秃)了一个下午，整体而言难度还好，感觉好棒啊！  
 
 
 ### CTF | DASCTF May & BJDCTF3rd 部分WriteUp
@@ -305,14 +313,6 @@ Asuri 招新赛 WriteUP 20191117
 [https://miaotony.xyz/2019/11/28/test/](https://miaotony.xyz/2019/11/28/test/)  
 
 这是一个测试页面啦！  
-
-
-### typora_tips 一些关于typora的快捷键
-[#tips](https://miaotony.xyz/categories/tips/)   
-2019-08-29 17:29 UTC+8  
-[https://miaotony.xyz/2019/08/29/typora_tips/](https://miaotony.xyz/2019/08/29/typora_tips/)  
-
-记录一些关于typora的快捷键，不记得了就来找找吧。  
 
 
 
