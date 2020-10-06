@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 CISCN 国赛总决赛 部分解题复现
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-10-06 17:00 UTC+8  
+[https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/](https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/)  
+
+好不容易有机会去线下打了场CISCN国赛，混吃混喝划水还是挺爽的，就是太菜了都不会……趁着还有点印象就来复现几个题吧。  
+
+
 ### 环境搭建之更换软件源汇总(Ubuntu/pip/Anaconda/Docker等)
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2020-09-25 22:30 UTC+8  
@@ -306,13 +314,6 @@ N年前搭建的班级网站早就炸了，还好在云平台失效前备份了�
 [https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/](https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/)  
 
 Asuri 招新赛 WriteUP 20191117  
-
-
-### test
-2019-11-28 00:13 UTC+8  
-[https://miaotony.xyz/2019/11/28/test/](https://miaotony.xyz/2019/11/28/test/)  
-
-这是一个测试页面啦！  
 
 
 
