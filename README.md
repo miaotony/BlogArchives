@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 bilibili Sec1024 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-10-26 01:20 UTC+8  
+[https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/](https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/)  
+
+小破站整了个Sec1024，看了看感觉题目更像是脑筋急转弯，略偏娱乐化这样吧。随意写个WriteUp好了。  
+
+
 ### CTF | 2020 CISCN 国赛总决赛 部分解题复现
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-10-06 17:00 UTC+8  
@@ -306,14 +314,6 @@ N年前搭建的班级网站早就炸了，还好在云平台失效前备份了�
 [https://miaotony.xyz/2019/12/02/Boom_2019November/](https://miaotony.xyz/2019/12/02/Boom_2019November/)  
 
 随便说一说，那个忙到爆炸、超级难顶的十一月。  
-
-
-### CTF | Asuri战队 2019招新赛 WriteUP
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2019-11-28 00:50 UTC+8  
-[https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/](https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/)  
-
-Asuri 招新赛 WriteUP 20191117  
 
 
 
