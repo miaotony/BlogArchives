@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 0xGame Web&Misc 部分WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-11-05 23:00 UTC+8  
+[https://miaotony.xyz/2020/11/05/CTF_2020_0xGame/](https://miaotony.xyz/2020/11/05/CTF_2020_0xGame/)  
+
+南邮的师傅们整了个 0xGame，比赛持续了一个月，大概看了看做了做，题目还是有点意思的。  
+
+
 ### CTF | 2020 bilibili Sec1024 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-10-26 01:20 UTC+8  
@@ -306,14 +314,6 @@ N年前搭建的班级网站早就炸了，还好在云平台失效前备份了�
 [https://miaotony.xyz/2019/12/04/Scrapy_2019Year-end_Report/](https://miaotony.xyz/2019/12/04/Scrapy_2019Year-end_Report/)  
 
 突然来了兴趣，想分析一下这个QQ小程序。  
-
-
-### 纪念一下忙到爆炸超级难顶的十一月
-[#Life](https://miaotony.xyz/categories/Life/)   
-2019-12-02 19:50 UTC+8  
-[https://miaotony.xyz/2019/12/02/Boom_2019November/](https://miaotony.xyz/2019/12/02/Boom_2019November/)  
-
-随便说一说，那个忙到爆炸、超级难顶的十一月。  
 
 
 
