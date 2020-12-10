@@ -41,7 +41,7 @@ Issues or/and PRs are welcome~
 2020-12-10 00:20 UTC+8  
 [https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/](https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/)  
 
-这几天去深圳打了个 X-NUCA 全国网安联赛，趁着还有兴致，就来大概总结一下吧，喵~  
+这几天去深圳打了个 X-NUCA 全国网安联赛总决赛，趁着还有兴致，就来大概总结一下吧，喵~  
 
 
 ### CTF | 2020 NCTF/NJUPTCTF 部分WriteUp
