@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### 碎碎念 | X-NUCA 2020 全国高校网安联赛总决赛 深圳游记
+[#Life](https://miaotony.xyz/categories/Life/)   
+2020-12-10 00:20 UTC+8  
+[https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/](https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/)  
+
+这几天去深圳打了个 X-NUCA 全国网安联赛，趁着还有兴致，就来大概总结一下吧，喵~  
+
+
 ### CTF | 2020 NCTF/NJUPTCTF 部分WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-11-23 21:00 UTC+8  
@@ -306,14 +314,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/01/23/CTF_Hgame2020/](https://miaotony.xyz/2020/01/23/CTF_Hgame2020/)  
 
 玩了一波杭电的Hgame2020，还别说，有点意思2333。这是Week1的WriteUp啦。  
-
-
-### 小想法 | 重建那些年基于Discuz!系统搭建的满是回忆的班级网站
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Web](https://miaotony.xyz/categories/Tech/Web/)   
-2020-01-09 10:00 UTC+8  
-[https://miaotony.xyz/2020/01/09/Idea_RebuildClassWebsite/](https://miaotony.xyz/2020/01/09/Idea_RebuildClassWebsite/)  
-
-N年前搭建的班级网站早就炸了，还好在云平台失效前备份了部分数据。最近突然有个小想法，想尝试着重建一下，于是折腾了两天，终于把大部分数据给恢复了，好怀念喵！  
 
 
 
