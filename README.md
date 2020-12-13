@@ -36,6 +36,14 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### Install Terminal + git-bash + zsh + oh-my-zsh on Windows 10
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-12-13 17:20 UTC+8  
+[https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/](https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/)  
+
+由于已经配了虚拟机，Win10上又不大想装WSL，于是折腾了一下Windows Terminal + git-bash + zsh + oh-my-zsh，感觉有点意思，这里顺便来记录一下。  
+
+
 ### 碎碎念 | X-NUCA 2020 全国高校网安联赛总决赛 深圳游记
 [#Life](https://miaotony.xyz/categories/Life/)   
 2020-12-10 00:20 UTC+8  
@@ -53,7 +61,7 @@ Issues or/and PRs are welcome~
 
 
 ### 基于Vercel Serverless部署Calc114514 API & Telegram bot
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
 2020-11-18 22:00 UTC+8  
 [https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/](https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/)  
 
@@ -306,14 +314,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/01/25/CTF_2020HappyChineseNewYear/](https://miaotony.xyz/2020/01/25/CTF_2020HappyChineseNewYear/)  
 
 鼠年来了，健康快乐呀！出几个题来玩玩吧，嘿嘿嘿~  
-
-
-### CTF | Hgame2020 Week1 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-01-23 10:50 UTC+8  
-[https://miaotony.xyz/2020/01/23/CTF_Hgame2020/](https://miaotony.xyz/2020/01/23/CTF_Hgame2020/)  
-
-玩了一波杭电的Hgame2020，还别说，有点意思2333。这是Week1的WriteUp啦。  
 
 
 
