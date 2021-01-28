@@ -33,6 +33,14 @@ Issues or/and PRs are welcome~
 
 更多信息请前往[关于页面](https://miaotony.xyz/about/)，留言请移步到[留言板](https://miaotony.xyz/contact)，谢谢。  
 
+## Sponsorship
+
+WeChat:   
+<img src="img/Sponsorship.png" style="max-width:40%;" />
+
+爱发电 afdian:  
+[https://afdian.net/@miaotony](https://afdian.net/@miaotony)  
+
 ## Archives  
 
 
@@ -327,4 +335,4 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 最终解释权归本项目开发者所有。  
 The final interpretation right belongs to the developer of the project.  
 
-Copyright © 2020 [MiaoTony](https://github.com/miaotony)  
+Copyright © 2020-2021 [MiaoTony](https://github.com/miaotony)  
