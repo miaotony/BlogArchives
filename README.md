@@ -36,6 +36,166 @@ Issues or/and PRs are welcome~
 ## Archives  
 
 
+### CTF | 2020 纵横杯 Misc&Web WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-12-28 16:00 UTC+8  
+[https://miaotony.xyz/2020/12/28/CTF_2020zongheng/](https://miaotony.xyz/2020/12/28/CTF_2020zongheng/)  
+
+周末和队友一起打了个纵横杯，题目还是有点意思的，结束后又复现了几道题，这里来写写WriteUp吧。  
+
+
+### Install Terminal + git-bash + zsh + oh-my-zsh on Windows 10
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-12-13 17:20 UTC+8  
+[https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/](https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/)  
+
+由于已经配了虚拟机，Win10上又不大想装WSL，于是折腾了一下Windows Terminal + git-bash + zsh + oh-my-zsh，感觉有点意思，这里顺便来记录一下。  
+
+
+### 碎碎念 | X-NUCA 2020 全国高校网安联赛总决赛 深圳游记
+[#Life](https://miaotony.xyz/categories/Life/)   
+2020-12-10 00:20 UTC+8  
+[https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/](https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/)  
+
+这几天去深圳打了个 X-NUCA 全国网安联赛总决赛，趁着还有兴致，就来大概总结一下吧，喵~  
+
+
+### CTF | 2020 NCTF/NJUPTCTF 部分WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-11-23 21:00 UTC+8  
+[https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/](https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/)  
+
+南邮举办的NCTF2020来了，发现没有真正的Misc题，有亿点点难受，没办法只能硬肝Web题了，太难顶了。不过还是挺好玩的嘿嘿。  
+
+
+### 基于Vercel Serverless部署Calc114514 API & Telegram bot
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
+2020-11-18 22:00 UTC+8  
+[https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/](https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/)  
+
+受USTC Hackergame超精巧的数字论证器启发，基于Vercel Serverless实现了Calc114514 API & Telegram bot的部署，这里来记录一下吧。  
+
+
+### CTF | 2020 USTC Hackergame WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-11-08 03:20 UTC+8  
+[https://miaotony.xyz/2020/11/08/CTF_2020Hackergame/](https://miaotony.xyz/2020/11/08/CTF_2020Hackergame/)  
+
+一年一度的Hackergame又来了，题目很有梯度，很有脑洞，感觉不错，学到了许多，下次还来。  
+
+
+### CTF | 2020 0xGame Web&Misc 部分WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-11-05 23:00 UTC+8  
+[https://miaotony.xyz/2020/11/05/CTF_2020_0xGame/](https://miaotony.xyz/2020/11/05/CTF_2020_0xGame/)  
+
+南邮的师傅们整了个 0xGame，比赛持续了一个月，大概看了看做了做，题目还是有点意思的。  
+
+
+### CTF | 2020 bilibili Sec1024 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-10-26 01:20 UTC+8  
+[https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/](https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/)  
+
+小破站整了个Sec1024，看了看感觉题目更像是脑筋急转弯，略偏娱乐化这样吧。随意写个WriteUp好了。  
+
+
+### CTF | 2020 CISCN 国赛总决赛 部分解题复现
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-10-06 17:00 UTC+8  
+[https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/](https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/)  
+
+好不容易有机会去线下打了场CISCN国赛，混吃混喝划水还是挺爽的，就是太菜了都不会……趁着还有点印象就来复现几个题吧。  
+
+
+### 环境搭建之更换软件源汇总(Ubuntu/pip/Anaconda/Docker等)
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-09-25 22:30 UTC+8  
+[https://miaotony.xyz/2020/09/25/Server_ChangeSource/](https://miaotony.xyz/2020/09/25/Server_ChangeSource/)  
+
+最近搭建环境又要折腾一堆换源，正好就来汇总一下各种换源好了。  
+
+
+### CTF | 2020 GACTF 一点点WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-08-31 19:30 UTC+8  
+[https://miaotony.xyz/2020/08/31/CTF_2020GACTF/](https://miaotony.xyz/2020/08/31/CTF_2020GACTF/)  
+
+这几天有个GACTF，随意来看看题目，就佛系做了几个题嘤嘤嘤，顺便来学点东西吧。  
+
+
+### CTF | 2020 CISCN初赛 Z3&LFSR WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-08-27 23:00 UTC+8  
+[https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/](https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/)  
+
+水了一波CISCN线上初赛，这里来写一写Z3和LFSR这两题的WP，顺便记录一下用到的z3、SageMath求解工具。  
+
+
+### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
+[#tips](https://miaotony.xyz/categories/tips/)   
+2020-07-11 23:50 UTC+8  
+[https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
+
+最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
+
+
+### CTF | 2020 NUAACTF 吸喵喵队 Writeup
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-05-30 22:00 UTC+8  
+[https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/](https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/)  
+
+期待已久的NUAACTF终于来了呀！玩(头)耍(秃)了一个下午，整体而言难度还好，感觉好棒啊！  
+
+
+### CTF | DASCTF May & BJDCTF3rd 部分WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-05-24 11:30 UTC+8  
+[https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/](https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/)  
+
+又是划划水~前两天水了一下DASCTF五月赛 & BJDCTF3rd，这次不是新生赛了，难度大的亚批，打得都自闭了。  
+
+
+### CTF | 2020 De1CTF Misc Chowder WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-05-04 19:30 UTC+8  
+[https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/](https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/)  
+
+这几天有个 De1CTF，结束前来看了一眼题目，做了个Misc杂烩题，还是挺有意思的。顺便来总结一下关于 NTFS 交换数据流的相关应用吧。  
+
+
+### Ubuntu16.04配置TensorFlow-vGPU环境
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2020-04-29 21:20 UTC+8  
+[https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/](https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/)  
+
+折腾了一个下午，终于在Ubuntu 16.04系统上配置好了TensorFlow的vGPU环境，主要涉及显卡驱动、CUDA、Anaconda、Tensorflow-gpu安装等，这里来做一下笔记喵。  
+
+
+### CTF | 2020 DASCTF 四月春季战 Re&Misc WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-04-25 21:00 UTC+8  
+[https://miaotony.xyz/2020/04/25/CTF_2020DASCTF_April/](https://miaotony.xyz/2020/04/25/CTF_2020DASCTF_April/)  
+
+今天下午有个 DASCTF 安恒月赛，难度据说“雨露均沾”，就来看了看题，做了几个Re和Misc的题，划个水。  
+
+
+### CTF | 2020 Ha1cyon_CTF公开赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2020-04-21 23:00 UTC+8  
+[https://miaotony.xyz/2020/04/21/CTF_2020Ha1cyonCTF/](https://miaotony.xyz/2020/04/21/CTF_2020Ha1cyonCTF/)  
+
+周末看了一下Ha1cyon_CTF“萌新”公开赛的题目，发现是一个难到爆炸的蹲WP劝退比赛。就写写部分WP，再来点小体会吧。  
+
+
+### 数据科学 | 十分钟入门pandas/常用方法笔记
+[#DataScience](https://miaotony.xyz/categories/DataScience/)   
+2020-04-17 00:00 UTC+8  
+[https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/](https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/)  
+
+最近对数据科学有点感兴趣，正好要用到pandas，于是就翻译了一下官方的10 Minutes to pandas，顺便记了点笔记吧。  
+
+
 ### 基于acme.sh从Let's encrypt生成免费且自动更新的SSL证书
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2020-03-28 20:30 UTC+8  
@@ -154,133 +314,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/01/29/Server_frp/](https://miaotony.xyz/2020/01/29/Server_frp/)  
 
 折腾了一下frp，轻松实现内网穿透，将内网资源映射到公网访问。  
-
-
-### 2020鼠年快乐！来玩红包闯关吧！
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-01-25 00:00 UTC+8  
-[https://miaotony.xyz/2020/01/25/CTF_2020HappyChineseNewYear/](https://miaotony.xyz/2020/01/25/CTF_2020HappyChineseNewYear/)  
-
-鼠年来了，健康快乐呀！出几个题来玩玩吧，嘿嘿嘿~  
-
-
-### CTF | Hgame2020 Week1 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-01-23 10:50 UTC+8  
-[https://miaotony.xyz/2020/01/23/CTF_Hgame2020/](https://miaotony.xyz/2020/01/23/CTF_Hgame2020/)  
-
-玩了一波杭电的Hgame2020，还别说，有点意思2333。这是Week1的WriteUp啦。  
-
-
-### 小想法 | 重建那些年基于Discuz!系统搭建的满是回忆的班级网站
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Web](https://miaotony.xyz/categories/Tech/Web/)   
-2020-01-09 10:00 UTC+8  
-[https://miaotony.xyz/2020/01/09/Idea_RebuildClassWebsite/](https://miaotony.xyz/2020/01/09/Idea_RebuildClassWebsite/)  
-
-N年前搭建的班级网站早就炸了，还好在云平台失效前备份了部分数据。最近突然有个小想法，想尝试着重建一下，于是折腾了两天，终于把大部分数据给恢复了，好怀念喵！  
-
-
-### NUAA_iCal_Web在线版本部署
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Web](https://miaotony.xyz/categories/Tech/Web/)   
-2019-12-29 00:49 UTC+8  
-[https://miaotony.xyz/2019/12/29/Tech_NUAAiCalWeb_deploy/](https://miaotony.xyz/2019/12/29/Tech_NUAAiCalWeb_deploy/)  
-
-简单记录一下NUAA_ClassSchedule在线版本NUAA_iCal_Web的部署折腾经历……  
-
-
-### 小想法 | 基于VSCode和ssh实现远程编程/炼丹
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2019-12-21 00:20 UTC+8  
-[https://miaotony.xyz/2019/12/21/Idea_RemoteProgramming/](https://miaotony.xyz/2019/12/21/Idea_RemoteProgramming/)  
-
-有一台内网服务器，想实现远程编程，于是乎瞎折腾了一两天的ssh，简单记录一下吧。  
-
-
-### 小想法 | QQ小程序【年终报告单/2019年终总结】分析
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Analysis](https://miaotony.xyz/categories/Tech/Analysis/)   
-2019-12-04 14:30 UTC+8  
-[https://miaotony.xyz/2019/12/04/Scrapy_2019Year-end_Report/](https://miaotony.xyz/2019/12/04/Scrapy_2019Year-end_Report/)  
-
-突然来了兴趣，想分析一下这个QQ小程序。  
-
-
-### 纪念一下忙到爆炸超级难顶的十一月
-[#Life](https://miaotony.xyz/categories/Life/)   
-2019-12-02 19:50 UTC+8  
-[https://miaotony.xyz/2019/12/02/Boom_2019November/](https://miaotony.xyz/2019/12/02/Boom_2019November/)  
-
-随便说一说，那个忙到爆炸、超级难顶的十一月。  
-
-
-### CTF | Asuri战队 2019招新赛 WriteUP
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2019-11-28 00:50 UTC+8  
-[https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/](https://miaotony.xyz/2019/11/28/CTF_2019Asuri_Recruitment/)  
-
-Asuri 招新赛 WriteUP 20191117  
-
-
-### test
-2019-11-28 00:13 UTC+8  
-[https://miaotony.xyz/2019/11/28/test/](https://miaotony.xyz/2019/11/28/test/)  
-
-这是一个测试页面啦！  
-
-
-### typora_tips 一些关于typora的快捷键
-[#tips](https://miaotony.xyz/categories/tips/)   
-2019-08-29 17:29 UTC+8  
-[https://miaotony.xyz/2019/08/29/typora_tips/](https://miaotony.xyz/2019/08/29/typora_tips/)  
-
-记录一些关于typora的快捷键，不记得了就来找找吧。  
-
-
-### 小想法 | 开源一个自己的Python小项目「Park at ease」停车场管理系统
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-08-18 20:13 UTC+8  
-[https://miaotony.xyz/2019/08/18/Park_at_ease/](https://miaotony.xyz/2019/08/18/Park_at_ease/)  
-
-自己用来练手的Python小项目啦。  
-
-
-### 小想法 | 基于模拟点击实现数据自动测量
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-07-10 11:20 UTC+8  
-[https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/](https://miaotony.xyz/2019/07/10/Idea_AutoMeasure/)  
-
-大创要测数据，就是太枯燥了8，效率还低。不如py一下写个自动执行的，说写就写呗！  
-
-
-### 第一篇 随便写写
-[#Blog](https://miaotony.xyz/categories/Blog/)   
-2019-07-09 18:45 UTC+8  
-[https://miaotony.xyz/2019/07/09/FirstBlog/](https://miaotony.xyz/2019/07/09/FirstBlog/)  
-
-第一篇blog，随便写点东西吧~  
-
-
-### 小想法 | 某QQ空间盗号页面分析
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Analysis](https://miaotony.xyz/categories/Tech/Analysis/)   
-2019-03-30 12:20 UTC+8  
-[https://miaotony.xyz/2019/03/30/Idea_AnalysisOfHackingPage/](https://miaotony.xyz/2019/03/30/Idea_AnalysisOfHackingPage/)  
-
-简单分析一个伪装成QQ空间的盗号页面，来看看呗~  
-
-
-### 小想法 | 利用python-docx批量提取Word中的信息进而导入Excel
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-03-21 19:50 UTC+8  
-[https://miaotony.xyz/2019/03/21/Idea_python-docx/](https://miaotony.xyz/2019/03/21/Idea_python-docx/)  
-
-利用python-docx库批量提取Word中的信息，而后写入csv文件，进而导入Excel表格。  
-
-
-### 小想法 | 基于PushBear API实现微信消息推送
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2019-03-07 22:39 UTC+8  
-[https://miaotony.xyz/2019/03/07/Idea_PushBearAPI_WeChatPush/](https://miaotony.xyz/2019/03/07/Idea_PushBearAPI_WeChatPush/)  
-
-调用PushBear API，实现微信消息推送，同时用tkinter做了一个GUI界面。  
 
 
 
