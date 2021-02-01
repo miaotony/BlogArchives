@@ -44,6 +44,22 @@ WeChat:
 ## Archives  
 
 
+### CTF | 限制长度下的命令执行 技巧汇总
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-01-31 23:00 UTC+8  
+[https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/](https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/)  
+
+最近打CTF做web题的时候遇到了限制长度的命令执行，查了一些资料，正好就来总结一下一些相关的小技巧吧，喵~  
+
+
+### CTF | 2021 0x41414141CTF 部分 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-01-31 20:30 UTC+8  
+[https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/](https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/)  
+
+喵，第一次来打国外的CTF，起因其实是有师傅来问我这个比赛怎么注册233，于是顺便就来看看题好了。  
+
+
 ### CTF | 2020 纵横杯 Misc&Web WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2020-12-28 16:00 UTC+8  
@@ -306,22 +322,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/02/02/Server_Docker/](https://miaotony.xyz/2020/02/02/Server_Docker/)  
 
 简要记录一下Docker的安装过程，以及一些常用命令。  
-
-
-### Linux Firewall & Port Configuration
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-01-29 21:10 UTC+8  
-[https://miaotony.xyz/2020/01/29/Server_firewall/](https://miaotony.xyz/2020/01/29/Server_firewall/)  
-
-简单记录一下Ubuntu和CentOS下防火墙及端口的相关配置。  
-
-
-### 基于frp实现内网穿透
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-01-29 15:00 UTC+8  
-[https://miaotony.xyz/2020/01/29/Server_frp/](https://miaotony.xyz/2020/01/29/Server_frp/)  
-
-折腾了一下frp，轻松实现内网穿透，将内网资源映射到公网访问。  
 
 
 
