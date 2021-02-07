@@ -183,7 +183,7 @@ WeChat:
 
 
 ### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
-[#tips](https://miaotony.xyz/categories/tips/)   [#Tech](https://miaotony.xyz/tags/Tech/)   [#tips](https://miaotony.xyz/tags/tips/)   [#Configuration](https://miaotony.xyz/tags/Configuration/)   [#DSP](https://miaotony.xyz/tags/DSP/)   
+[#tips](https://miaotony.xyz/categories/tips/)   [#Tech](https://miaotony.xyz/tags/Tech/)   [#Configuration](https://miaotony.xyz/tags/Configuration/)   [#tips](https://miaotony.xyz/tags/tips/)   [#DSP](https://miaotony.xyz/tags/DSP/)   
 2020-07-11 23:50 UTC+8  
 [https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
 
