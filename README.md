@@ -44,6 +44,15 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 Hgame Week2 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   [#CTF](https://miaotony.xyz/tags/CTF/)   [#WriteUp](https://miaotony.xyz/tags/WriteUp/)   
+2021-02-15 22:00 UTC+8  
+[https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/](https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/)  
+
+<h2 id="引言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#引言" title="引言"></a>引言</h2><p>开门见山，这篇是 Hgame 2021 第二周的 WriteUp 啦。</p>
+<p>第一周的详见 <a  
+
+
 ### 2021 牛年大吉！又是一年解谜闯关
 [#CTF](https://miaotony.xyz/categories/CTF/)   [#Life](https://miaotony.xyz/tags/Life/)   [#CTF](https://miaotony.xyz/tags/CTF/)   [#红包闯关](https://miaotony.xyz/tags/%E7%BA%A2%E5%8C%85%E9%97%AF%E5%85%B3/)   
 2021-02-12 00:00 UTC+8  
@@ -349,14 +358,6 @@ WeChat:
 
 <h2 id="前言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#前言" title="前言"></a>前言</h2><p>前几天过了一遍基础的 HTML 知识，记了点<a href="https://miaotony.xyz/2020/02/14/FrontEnd_HTML_Basic/">笔记在这里</a>。</p>
 <p>总体感觉  
-
-
-### FrontEnd | HTML 基础入门学习笔记
-[#FrontEnd](https://miaotony.xyz/categories/FrontEnd/)   [#FrontEnd](https://miaotony.xyz/tags/FrontEnd/)   [#HTML](https://miaotony.xyz/tags/HTML/)   
-2020-02-14 15:00 UTC+8  
-[https://miaotony.xyz/2020/02/14/FrontEnd_HTML_Basic/](https://miaotony.xyz/2020/02/14/FrontEnd_HTML_Basic/)  
-
-<h2 id="前言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#前言" title="前言"></a>前言</h2><p>最近想<strong>系统一点学一学前端</strong>，这一篇博客就简要记录一些前端中 <strong>HTML  
 
 
 
