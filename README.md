@@ -44,6 +44,15 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 Hgame Week4 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   [#CTF](https://miaotony.xyz/tags/CTF/)   [#WriteUp](https://miaotony.xyz/tags/WriteUp/)   
+2021-03-04 21:00 UTC+8  
+[https://miaotony.xyz/2021/03/04/CTF_2021HgameWeek4/](https://miaotony.xyz/2021/03/04/CTF_2021HgameWeek4/)  
+
+<h2 id="引言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#引言" title="引言"></a>引言</h2><p><strong>Hgame 2021 Week 4</strong></p>
+<p>喵呜，转眼间 Hgame  
+
+
 ### CTF | 2021 Hgame Week3 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   [#CTF](https://miaotony.xyz/tags/CTF/)   [#WriteUp](https://miaotony.xyz/tags/WriteUp/)   
 2021-02-23 21:00 UTC+8  
@@ -229,7 +238,7 @@ WeChat:
 
 
 ### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
-[#tips](https://miaotony.xyz/categories/tips/)   [#Tech](https://miaotony.xyz/tags/Tech/)   [#tips](https://miaotony.xyz/tags/tips/)   [#Configuration](https://miaotony.xyz/tags/Configuration/)   [#DSP](https://miaotony.xyz/tags/DSP/)   
+[#tips](https://miaotony.xyz/categories/tips/)   [#Tech](https://miaotony.xyz/tags/Tech/)   [#Configuration](https://miaotony.xyz/tags/Configuration/)   [#tips](https://miaotony.xyz/tags/tips/)   [#DSP](https://miaotony.xyz/tags/DSP/)   
 2020-07-11 23:50 UTC+8  
 [https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
 
@@ -351,15 +360,6 @@ WeChat:
 [https://miaotony.xyz/2020/03/03/Server_ObtainIPv6ViaTunnelBroker/](https://miaotony.xyz/2020/03/03/Server_ObtainIPv6ViaTunnelBroker/)  
 
 <h2 id="0x00-前言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#0x00-前言" title="0x00 前言"></a>0x00 前言</h2><p>目前 IPv6 用得挺广了吧，很多应用都支持 IPv6 了，三大运营商基本都支持了，联通的流量自带  
-
-
-### 光猫折腾记 | 获取超级管理员密码&开启telnet&IPv6&桥接宽带
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   [#Tech](https://miaotony.xyz/tags/Tech/)   [#小想法](https://miaotony.xyz/tags/%E5%B0%8F%E6%83%B3%E6%B3%95/)   [#Web](https://miaotony.xyz/tags/Web/)   [#Server](https://miaotony.xyz/tags/Server/)   [#Configuration](https://miaotony.xyz/tags/Configuration/)   [#IPv6](https://miaotony.xyz/tags/IPv6/)   [#Modem](https://miaotony.xyz/tags/Modem/)   
-2020-02-27 17:00 UTC+8  
-[https://miaotony.xyz/2020/02/27/Server_OpticalModem/](https://miaotony.xyz/2020/02/27/Server_OpticalModem/)  
-
-<h2 id="0x00-前言"><a class="headerlink" href="https://miaotony.xyz/atom.xml#0x00-前言" title="0x00 前言"></a>0x00 前言</h2><p>最近觉得家里的网速有点慢，上着网课或者看着视频，WiFi 连接的设备同时在用的话就开始卡了 emmm就很难受。🙁</p>
-<p>然后又听说三大运营商的宽带差不多都分配 IPv6  
 
 
 
