@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### DN42 | 入坑 DN42 实验网络
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2021-03-25 21:20 UTC+8  
+[https://miaotony.xyz/2021/03/25/Server_DN42/](https://miaotony.xyz/2021/03/25/Server_DN42/)  
+
+最近几天入了DN42的坑，申请了ASN、IP、域名，搭建了VPN通信隧道，配置好BGP路由，完成了和其他网络的Peer。  
+
+
 ### CTF | 2021 AntCTF x D^3CTF WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-03-09 20:30 UTC+8  
@@ -354,14 +362,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/02/14/FrontEnd_HTML_Basic/](https://miaotony.xyz/2020/02/14/FrontEnd_HTML_Basic/)  
 
 最近想系统一点学一学前端，这一篇博客就简要记录一些前端中HTML基础入门的学习笔记吧。  
-
-
-### 小想法 | 利用Huginn&TelegramBot实现教务通知自动爬取与推送
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2020-02-11 15:30 UTC+8  
-[https://miaotony.xyz/2020/02/11/Idea_Huginn_AAONoticeAutoPush/](https://miaotony.xyz/2020/02/11/Idea_Huginn_AAONoticeAutoPush/)  
-
-最近研究了一下Huginn，实现了教务通知公告的自动爬取，再基于Server Chan及Telegram Bot API，将信息分别推送到微信和TG。  
 
 
 
