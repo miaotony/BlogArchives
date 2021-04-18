@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 MRCTF WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-04-15 20:30 UTC+8  
+[https://miaotony.xyz/2021/04/15/CTF_2021MRCTF/](https://miaotony.xyz/2021/04/15/CTF_2021MRCTF/)  
+
+前几天看北邮天璇Merak战队整了个招新赛，喵喵也来随便玩玩好了！题目还是比较顶的，巨大多“签到”题目，然而喵喵并不能check in...  
+
+
 ### CTF | 2021 虎符CTF Web internal_system 复现
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-04-05 16:30 UTC+8  
@@ -66,6 +74,14 @@ WeChat:
 [https://miaotony.xyz/2021/03/25/Server_DN42/](https://miaotony.xyz/2021/03/25/Server_DN42/)  
 
 最近几天入了DN42的坑，申请了ASN、IP、域名，搭建了VPN通信隧道，配置好BGP路由，完成了和其他网络的Peer。  
+
+
+### CTF | 2021 V&NCTF 公开赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-03-15 20:30 UTC+8  
+[https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/](https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/)  
+
+周末有个V&amp;NCTF，题目是V&amp;N战队中大一大二的小师傅们出的，比赛结束前来看了一眼，做了几个题玩玩。  
 
 
 ### CTF | 2021 AntCTF x D^3CTF WriteUp
@@ -346,22 +362,6 @@ JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% disco
 [https://miaotony.xyz/2020/03/12/CTF_2020JetBrainsQuest/](https://miaotony.xyz/2020/03/12/CTF_2020JetBrainsQuest/)  
 
 体验了一下JetBrainsQuest1&2，白嫖了3+3个月的JB家全产品授权，这里记录一下通关过程，也算是攻略/WriteUp吧。  
-
-
-### 利用TunnelBroker给阿里云ECS配置公网IPv6
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-03-03 23:30 UTC+8  
-[https://miaotony.xyz/2020/03/03/Server_ObtainIPv6ViaTunnelBroker/](https://miaotony.xyz/2020/03/03/Server_ObtainIPv6ViaTunnelBroker/)  
-
-最近折腾了一下，利用Hurricane Electric提供的免费IPv6 Tunnel Broker，让阿里云的ECS拥有了IPv6地址（非原生）。  
-
-
-### 光猫折腾记 | 获取超级管理员密码&开启telnet&IPv6&桥接宽带
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-02-27 17:00 UTC+8  
-[https://miaotony.xyz/2020/02/27/Server_OpticalModem/](https://miaotony.xyz/2020/02/27/Server_OpticalModem/)  
-
-最近折腾了一下家里的光猫，获取了超级管理员密码，开启了Telnet管理，启用IPv6，并尝试了宽带桥接的改造等等。  
 
 
 
