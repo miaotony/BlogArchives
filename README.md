@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 蓝帽杯 Misc 冬奥会_is_coming WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-05-09 20:10 UTC+8  
+[https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/](https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/)  
+
+五一之前打了个蓝帽杯，这里摸鱼写写一道Misc题目的题解好了。  
+
+
 ### CTF | 2021 MRCTF WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-04-15 20:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/03/14/CTF_2020JetBrainsQuest3/](https://miaotony.xyz/2020/03/14/CTF_2020JetBrainsQuest3/)  
 
 JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% discount on an All Products Pack subscription，这里随手写写攻略吧。  
-
-
-### CTF | JetBrains Quest 1&2 WriteUp/攻略
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-03-12 15:00 UTC+8  
-[https://miaotony.xyz/2020/03/12/CTF_2020JetBrainsQuest/](https://miaotony.xyz/2020/03/12/CTF_2020JetBrainsQuest/)  
-
-体验了一下JetBrainsQuest1&2，白嫖了3+3个月的JB家全产品授权，这里记录一下通关过程，也算是攻略/WriteUp吧。  
 
 
 
