@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 NUAACTF Easy_XSS 复现
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-05-17 20:10 UTC+8  
+[https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/](https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/)  
+
+在NUAACTF 2021中，有一道XSS相关的题目，主要涉及XSS绕过、PHP代码审计、文件上传绕过，难度其实还好。最近摸鱼，就来复现一下吧。  
+
+
 ### CTF | 2021 蓝帽杯 Misc 冬奥会_is_coming WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-05-09 20:10 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/03/15/CTF_2020XCTF_gxzy/](https://miaotony.xyz/2020/03/15/CTF_2020XCTF_gxzy/)  
 
 前不久水了一下XCTF的高校战“疫”网络安全分享赛，然而菜死了都没做出几道题，随便写点点WriteUp和感受吧。  
-
-
-### CTF | JetBrains Quest 3 WriteUp/攻略
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-03-14 00:30 UTC+8  
-[https://miaotony.xyz/2020/03/14/CTF_2020JetBrainsQuest3/](https://miaotony.xyz/2020/03/14/CTF_2020JetBrainsQuest3/)  
-
-JetBrains Quest 3出来了，又来体验了一波，最后的礼品是20% discount on an All Products Pack subscription，这里随手写写攻略吧。  
 
 
 
