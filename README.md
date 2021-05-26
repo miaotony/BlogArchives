@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 CISCN初赛 Misc WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-05-25 20:15 UTC+8  
+[https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/](https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/)  
+
+又是一年一度的国赛，连续打24h太难受啦！这里把几道misc题目写一写好了。  
+
+
 ### CTF | 2021 红帽杯 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-05-24 22:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/](https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/)  
 
 通过Let's encrypt可以获得90天免费且可续期的SSL证书，而利用acme.sh可以自动生成和更新，这篇文章就来介绍一下配置的过程吧。  
-
-
-### CTF | BJDCTF 2nd WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-03-23 19:30 UTC+8  
-[https://miaotony.xyz/2020/03/23/CTF_BJDCTF2nd/](https://miaotony.xyz/2020/03/23/CTF_BJDCTF2nd/)  
-
-划水划水~周末水了一下BJDCTF 2nd，据说是萌新赛，于是来玩了一下，嗯让我知道了我的确就是萌新。  
 
 
 
