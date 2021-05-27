@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 美团CTF Misc WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-05-26 15:10 UTC+8  
+[https://miaotony.xyz/2021/05/26/CTF_2021MeiTuan/](https://miaotony.xyz/2021/05/26/CTF_2021MeiTuan/)  
+
+周末有个美团网络安全高校挑战赛（MTCTF），晚上吃完饭来看了一眼，做了俩misc题玩玩。  
+
+
 ### CTF | 2021 CISCN初赛 Misc WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-05-25 20:15 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/](https://miaotony.xyz/2020/04/17/DataScience_10MinutesToPandas/)  
 
 最近对数据科学有点感兴趣，正好要用到pandas，于是就翻译了一下官方的10 Minutes to pandas，顺便记了点笔记吧。  
-
-
-### 基于acme.sh从Let's encrypt生成免费且自动更新的SSL证书
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-03-28 20:30 UTC+8  
-[https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/](https://miaotony.xyz/2020/03/28/Server_IssueACertWithACME/)  
-
-通过Let's encrypt可以获得90天免费且可续期的SSL证书，而利用acme.sh可以自动生成和更新，这篇文章就来介绍一下配置的过程吧。  
 
 
 
