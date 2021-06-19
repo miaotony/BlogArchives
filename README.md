@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 NewsCTF 6.1萌新赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-06-18 21:30 UTC+8  
+[https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/](https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/)  
+
+六一那几天有个小比赛，不过比较忙就简单看了几个题，随意写写好了。  
+
+
 ### CTF | 2021 春秋杯 Baby_steg WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-05-31 16:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/](https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/)  
 
 折腾了一个下午，终于在Ubuntu 16.04系统上配置好了TensorFlow的vGPU环境，主要涉及显卡驱动、CUDA、Anaconda、Tensorflow-gpu安装等，这里来做一下笔记喵。  
-
-
-### CTF | 2020 DASCTF 四月春季战 Re&Misc WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-04-25 21:00 UTC+8  
-[https://miaotony.xyz/2020/04/25/CTF_2020DASCTF_April/](https://miaotony.xyz/2020/04/25/CTF_2020DASCTF_April/)  
-
-今天下午有个 DASCTF 安恒月赛，难度据说“雨露均沾”，就来看了看题，做了几个Re和Misc的题，划个水。  
 
 
 
