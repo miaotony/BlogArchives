@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Penetration | 2021 DozerCTF 域渗透 Workthrough
+[#Penetration](https://miaotony.xyz/categories/Penetration/)   
+2021-06-20 21:30 UTC+8  
+[https://miaotony.xyz/2021/06/20/Penetration_2021DozerCTF/](https://miaotony.xyz/2021/06/20/Penetration_2021DozerCTF/)  
+
+五月底的DozerCTF中有个域渗透的题目，还是挺有意思的，趁这个机会就来学一下相关的知识，来练练手。  
+
+
 ### CTF | 2021 NewsCTF 6.1萌新赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-06-18 21:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/](https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/)  
 
 这几天有个 De1CTF，结束前来看了一眼题目，做了个Misc杂烩题，还是挺有意思的。顺便来总结一下关于 NTFS 交换数据流的相关应用吧。  
-
-
-### Ubuntu16.04配置TensorFlow-vGPU环境
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-04-29 21:20 UTC+8  
-[https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/](https://miaotony.xyz/2020/04/29/Server_TensorFlow-vGPU/)  
-
-折腾了一个下午，终于在Ubuntu 16.04系统上配置好了TensorFlow的vGPU环境，主要涉及显卡驱动、CUDA、Anaconda、Tensorflow-gpu安装等，这里来做一下笔记喵。  
 
 
 
