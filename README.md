@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 强网杯线上赛 Web&Misc WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-06-28 20:30 UTC+8  
+[https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/](https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/)  
+
+强网杯打得太顶太刺激了，题目还是挺有难度的，和队友一起来看了些题，之后又复现了一下。  
+
+
 ### Penetration | 2021 DozerCTF 域渗透 Workthrough
 [#Penetration](https://miaotony.xyz/categories/Penetration/)   
 2021-06-20 21:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/](https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/)  
 
 又是划划水~前两天水了一下DASCTF五月赛 & BJDCTF3rd，这次不是新生赛了，难度大的亚批，打得都自闭了。  
-
-
-### CTF | 2020 De1CTF Misc Chowder WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-05-04 19:30 UTC+8  
-[https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/](https://miaotony.xyz/2020/05/04/CTF_2020De1CTF/)  
-
-这几天有个 De1CTF，结束前来看了一眼题目，做了个Misc杂烩题，还是挺有意思的。顺便来总结一下关于 NTFS 交换数据流的相关应用吧。  
 
 
 
