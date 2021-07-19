@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Pentest | 2021 百灵鸟团队纳新玩家活动 Bludit v3.12.0 WriteUp
+[#Pentest](https://miaotony.xyz/categories/Pentest/)   
+2021-07-18 19:30 UTC+8  
+[https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/](https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/)  
+
+上个月底偶尔看到了个纳新的渗透测试题目，来摸鱼玩了玩，这里就随意记录一下。  
+
+
 ### CTF | 2021 强网杯线上赛 Web&Misc WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-06-28 20:30 UTC+8  
@@ -52,10 +60,10 @@ WeChat:
 强网杯打得太顶太刺激了，题目还是挺有难度的，和队友一起来看了些题，之后又复现了一下。  
 
 
-### Penetration | 2021 DozerCTF 域渗透 Workthrough
-[#Penetration](https://miaotony.xyz/categories/Penetration/)   
+### Pentest | 2021 DozerCTF 域渗透 Workthrough
+[#Pentest](https://miaotony.xyz/categories/Pentest/)   
 2021-06-20 21:30 UTC+8  
-[https://miaotony.xyz/2021/06/20/Penetration_2021DozerCTF/](https://miaotony.xyz/2021/06/20/Penetration_2021DozerCTF/)  
+[https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/](https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/)  
 
 五月底的DozerCTF中有个域渗透的题目，还是挺有意思的，趁这个机会就来学一下相关的知识，来练练手。  
 
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/](https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/)  
 
 期待已久的NUAACTF终于来了呀！玩(头)耍(秃)了一个下午，整体而言难度还好，感觉好棒啊！  
-
-
-### CTF | DASCTF May & BJDCTF3rd 部分WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-05-24 11:30 UTC+8  
-[https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/](https://miaotony.xyz/2020/05/24/CTF_BJDCTF3rd/)  
-
-又是划划水~前两天水了一下DASCTF五月赛 & BJDCTF3rd，这次不是新生赛了，难度大的亚批，打得都自闭了。  
 
 
 
