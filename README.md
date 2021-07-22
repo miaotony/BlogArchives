@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### 碎碎念 | 2021 强网杯S5 全国网络安全挑战赛线下赛 郑州游记
+[#Life](https://miaotony.xyz/categories/Life/)   
+2021-07-19 22:20 UTC+8  
+[https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/](https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/)  
+
+前段时间去郑州打了个强网杯S5线下赛，顺便和师傅们在附近玩了玩，这里来写一下游记吧，喵~  
+
+
 ### Pentest | 2021 百灵鸟团队纳新玩家活动 Bludit v3.12.0 WriteUp
 [#Pentest](https://miaotony.xyz/categories/Pentest/)   
 2021-07-18 19:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
 
 最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
-
-
-### CTF | 2020 NUAACTF 吸喵喵队 Writeup
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-05-30 22:00 UTC+8  
-[https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/](https://miaotony.xyz/2020/05/30/CTF_2020NUAACTF/)  
-
-期待已久的NUAACTF终于来了呀！玩(头)耍(秃)了一个下午，整体而言难度还好，感觉好棒啊！  
 
 
 
