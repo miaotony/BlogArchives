@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### 碎碎念 | 2021 红帽杯 网络安全大赛总决赛 广州游记
+[#Life](https://miaotony.xyz/categories/Life/)   
+2021-07-29 19:10 UTC+8  
+[https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/](https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/)  
+
+前几天去广州打了第四届红帽杯网络安全大赛总决赛，这里来随便记录一下在广州的游记吧~  
+
+
 ### 碎碎念 | 2021 强网杯S5 全国网络安全挑战赛线下赛 郑州游记
 [#Life](https://miaotony.xyz/categories/Life/)   
 2021-07-19 22:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/](https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/)  
 
 水了一波CISCN线上初赛，这里来写一写Z3和LFSR这两题的WP，顺便记录一下用到的z3、SageMath求解工具。  
-
-
-### DSP | CCS v3.3 利用I/O端口从外部文件传送数据的相关配置
-[#tips](https://miaotony.xyz/categories/tips/)   
-2020-07-11 23:50 UTC+8  
-[https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/](https://miaotony.xyz/2020/07/11/Tips_CCS_RWDataFromPort/)  
-
-最近做DSP大作业需要用到古老的CCS v3.3软件，而对于利用Simulator的I/O端口从外部文件传送数据的方法，查了各种资料几乎没有相关介绍，正好就来记录一下吧。  
 
 
 
