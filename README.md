@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 巅峰极客网络安全技能挑战赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-08-07 22:30 UTC+8  
+[https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/](https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/)  
+
+上周末摸鱼打了下巅峰极客网络安全技能挑战赛，题目好难啊喵呜呜，就复现一下随便写写好了。  
+
+
 ### 碎碎念 | 2021 红帽杯 网络安全大赛总决赛 广州游记
 [#Life](https://miaotony.xyz/categories/Life/)   
 2021-07-29 19:10 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/08/31/CTF_2020GACTF/](https://miaotony.xyz/2020/08/31/CTF_2020GACTF/)  
 
 这几天有个GACTF，随意来看看题目，就佛系做了几个题嘤嘤嘤，顺便来学点东西吧。  
-
-
-### CTF | 2020 CISCN初赛 Z3&LFSR WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-08-27 23:00 UTC+8  
-[https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/](https://miaotony.xyz/2020/08/27/CTF_2020CISCN_preliminary/)  
-
-水了一波CISCN线上初赛，这里来写一写Z3和LFSR这两题的WP，顺便记录一下用到的z3、SageMath求解工具。  
 
 
 
