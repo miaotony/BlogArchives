@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 祥云杯 Misc WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-08-24 22:30 UTC+8  
+[https://miaotony.xyz/2021/08/24/CTF_2021XiangYun/](https://miaotony.xyz/2021/08/24/CTF_2021XiangYun/)  
+
+又是一个打CTF的周末，这周打了个祥云杯，喵喵主要在看Misc题目，摸鱼好累，又不能出去玩了，喵呜呜。  
+
+
 ### CTF | 2021 DASCTF July cybercms 一探再探
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-08-10 22:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/](https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/)  
 
 好不容易有机会去线下打了场CISCN国赛，混吃混喝划水还是挺爽的，就是太菜了都不会……趁着还有点印象就来复现几个题吧。  
-
-
-### 环境搭建之更换软件源汇总(Ubuntu/pip/Anaconda/Docker等)
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-09-25 22:30 UTC+8  
-[https://miaotony.xyz/2020/09/25/Server_ChangeSource/](https://miaotony.xyz/2020/09/25/Server_ChangeSource/)  
-
-最近搭建环境又要折腾一堆换源，正好就来汇总一下各种换源好了。  
 
 
 
