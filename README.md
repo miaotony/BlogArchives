@@ -52,6 +52,14 @@ WeChat:
 又是一个打CTF的周末，这周打了个祥云杯，喵喵主要在看Misc题目，摸鱼好累，又不能出去玩了，喵呜呜。  
 
 
+### CTF | 2021 DASCTF July X CBCTF 4th 部分WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-08-15 22:30 UTC+8  
+[https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/](https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/)  
+
+摸鱼打了个DASCTF July，主要看了看Web和Misc题目，大部分是结束后边做边写的，写得还是挺详细的吧，当然也少不了走弯路的地方。  
+
+
 ### CTF | 2021 DASCTF July cybercms 一探再探
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-08-10 22:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/](https://miaotony.xyz/2020/10/26/CTF_2020bilibiliSec1024/)  
 
 小破站整了个Sec1024，看了看感觉题目更像是脑筋急转弯，略偏娱乐化这样吧。随意写个WriteUp好了。  
-
-
-### CTF | 2020 CISCN 国赛总决赛 部分解题复现
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-10-06 17:00 UTC+8  
-[https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/](https://miaotony.xyz/2020/10/06/CTF_2020CISCN_final/)  
-
-好不容易有机会去线下打了场CISCN国赛，混吃混喝划水还是挺爽的，就是太菜了都不会……趁着还有点印象就来复现几个题吧。  
 
 
 
