@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 第四届“强网”拟态防御国际精英挑战赛 SU WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-10-26 20:15 UTC+8  
+[https://miaotony.xyz/2021/10/26/CTF_2021qiangwangnitai/](https://miaotony.xyz/2021/10/26/CTF_2021qiangwangnitai/)  
+
+周末有个强网拟态防御的比赛，线上赛其实和拟态防御关系不大。最后队友成功带飞喵喵，打到了第二名。  
+
+
 ### CTF | 2021 网信柏鹭杯 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-10-25 20:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/](https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/)  
 
 南邮举办的NCTF2020来了，发现没有真正的Misc题，有亿点点难受，没办法只能硬肝Web题了，太难顶了。不过还是挺好玩的嘿嘿。  
-
-
-### 基于Vercel Serverless部署Calc114514 API & Telegram bot
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Projects](https://miaotony.xyz/categories/Tech/Projects/)   
-2020-11-18 22:00 UTC+8  
-[https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/](https://miaotony.xyz/2020/11/18/Server_Vercel_Calc114514/)  
-
-受USTC Hackergame超精巧的数字论证器启发，基于Vercel Serverless实现了Calc114514 API & Telegram bot的部署，这里来记录一下吧。  
 
 
 
