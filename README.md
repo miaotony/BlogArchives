@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 东华杯 大学生网络安全邀请赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-11-02 20:01 UTC+8  
+[https://miaotony.xyz/2021/11/02/CTF_2021donghua/](https://miaotony.xyz/2021/11/02/CTF_2021donghua/)  
+
+周日有东华杯这个上海市大学生网络安全大赛，和校内的师傅摸鱼打了一下，最后佛系摸到了上海市第三，全国第43。  
+
+
 ### CTF | 2021 第四届“强网”拟态防御国际精英挑战赛 SU WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-10-26 20:15 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/](https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/)  
 
 这几天去深圳打了个 X-NUCA 全国网安联赛总决赛，趁着还有兴致，就来大概总结一下吧，喵~  
-
-
-### CTF | 2020 NCTF/NJUPTCTF 部分WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-11-23 21:00 UTC+8  
-[https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/](https://miaotony.xyz/2020/11/23/CTF_2020NJUPTCTF/)  
-
-南邮举办的NCTF2020来了，发现没有真正的Misc题，有亿点点难受，没办法只能硬肝Web题了，太难顶了。不过还是挺好玩的嘿嘿。  
 
 
 
