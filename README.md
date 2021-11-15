@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 USTC Hackergame WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-11-03 21:20 UTC+8  
+[https://miaotony.xyz/2021/11/03/CTF_2021Hackergame/](https://miaotony.xyz/2021/11/03/CTF_2021Hackergame/)  
+
+今年的Hackergame又来了，题目很有梯度，也学到了许多，明年有机会的话还来。  
+
+
 ### CTF | 2021 东华杯 大学生网络安全邀请赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-11-02 20:01 UTC+8  
@@ -66,6 +74,14 @@ WeChat:
 [https://miaotony.xyz/2021/10/25/CTF_2021bailu/](https://miaotony.xyz/2021/10/25/CTF_2021bailu/)  
 
 这周比赛太多了啊，1024这天摸鱼看了看这个“网信柏鹭杯”大学生网络空间安全精英赛，随便水了几题。  
+
+
+### CTF | 2021 ByteCTF Misc Writeup
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-10-19 19:10 UTC+8  
+[https://miaotony.xyz/2021/10/19/CTF_2021ByteCTF/](https://miaotony.xyz/2021/10/19/CTF_2021ByteCTF/)  
+
+周末有个字节跳动CTF，咱摸鱼来打了打，最后队友带飞，打到了第十，太顶啦！  
 
 
 ### CTF | 2021 第五空间网络安全大赛线上赛 Misc WriteUp
@@ -346,22 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2020/12/28/CTF_2020zongheng/](https://miaotony.xyz/2020/12/28/CTF_2020zongheng/)  
 
 周末和队友一起打了个纵横杯，题目还是有点意思的，结束后又复现了几道题，这里来写写WriteUp吧。  
-
-
-### Install Terminal + git-bash + zsh + oh-my-zsh on Windows 10
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2020-12-13 17:20 UTC+8  
-[https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/](https://miaotony.xyz/2020/12/13/Server_Terminal_gitbash_zsh/)  
-
-由于已经配了虚拟机，Win10上又不大想装WSL，于是折腾了一下Windows Terminal + git-bash + zsh + oh-my-zsh，感觉有点意思，这里顺便来记录一下。  
-
-
-### 碎碎念 | X-NUCA 2020 全国高校网安联赛总决赛 深圳游记
-[#Life](https://miaotony.xyz/categories/Life/)   
-2020-12-10 00:20 UTC+8  
-[https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/](https://miaotony.xyz/2020/12/10/Life_2020XNUCA_trip/)  
-
-这几天去深圳打了个 X-NUCA 全国网安联赛总决赛，趁着还有兴致，就来大概总结一下吧，喵~  
 
 
 
