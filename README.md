@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 PKU GeekGame 1st WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-11-25 21:20 UTC+8  
+[https://miaotony.xyz/2021/11/25/CTF_2021PKUGeekGame/](https://miaotony.xyz/2021/11/25/CTF_2021PKUGeekGame/)  
+
+第一届PKU GeekGame来了，题目的点套的太多了，太顶了，打得比较自闭。  
+
+
 ### CTF | 2021 USTC Hackergame WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-11-03 21:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/](https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/)  
 
 喵，第一次来打国外的CTF，起因其实是有师傅来问我这个比赛怎么注册233，于是顺便就来看看题好了。  
-
-
-### CTF | 2020 纵横杯 Misc&Web WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2020-12-28 16:00 UTC+8  
-[https://miaotony.xyz/2020/12/28/CTF_2020zongheng/](https://miaotony.xyz/2020/12/28/CTF_2020zongheng/)  
-
-周末和队友一起打了个纵横杯，题目还是有点意思的，结束后又复现了几道题，这里来写写WriteUp吧。  
 
 
 
