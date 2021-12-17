@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2021 AsuriCTF / NUAACTF Misc 部分官方 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-12-16 23:20 UTC+8  
+[https://miaotony.xyz/2021/12/16/CTF_2021AsuriCTF_NUAACTF_Misc/](https://miaotony.xyz/2021/12/16/CTF_2021AsuriCTF_NUAACTF_Misc/)  
+
+上周末和Asuri战队的师傅们一起办了个AsuriCTF/NUAACTF，喵喵出了两道Misc题目，这里来写写题解和出题思路，顺便复盘一下比赛运维的故事，记录一下心得体会。  
+
+
 ### CTF | 2021 PKU GeekGame 1st WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-11-25 21:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/](https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/)  
 
 最近打CTF做web题的时候遇到了限制长度的命令执行，查了一些资料，正好就来总结一下一些相关的小技巧吧，喵~  
-
-
-### CTF | 2021 0x41414141CTF 部分 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-01-31 20:30 UTC+8  
-[https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/](https://miaotony.xyz/2021/01/31/CTF_2021_0x41414141/)  
-
-喵，第一次来打国外的CTF，起因其实是有师傅来问我这个比赛怎么注册233，于是顺便就来看看题好了。  
 
 
 
