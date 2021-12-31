@@ -52,6 +52,14 @@ WeChat:
 上周末和Asuri战队的师傅们一起办了个AsuriCTF/NUAACTF，喵喵出了两道Misc题目，这里来写写题解和出题思路，顺便复盘一下比赛运维的故事，记录一下心得体会。  
 
 
+### CTF | 2021 NCTF/NJUPTCTF WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2021-11-30 21:20 UTC+8  
+[https://miaotony.xyz/2021/11/30/CTF_2021NCTF/](https://miaotony.xyz/2021/11/30/CTF_2021NCTF/)  
+
+又是一年南邮校赛NCTF，今年的题目太难了啊，做不来做不来，本来还想恰烂钱的，最后摆烂了。  
+
+
 ### CTF | 2021 PKU GeekGame 1st WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-11-25 21:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/02/03/CTF_2021chunqiu/](https://miaotony.xyz/2021/02/03/CTF_2021chunqiu/)  
 
 前几天有个春秋杯新年欢乐赛，有点感兴趣就来看看题了。说好的欢乐赛，其实一点都不欢乐，太坏了！  
-
-
-### CTF | 限制长度下的命令执行 技巧汇总
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-01-31 23:00 UTC+8  
-[https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/](https://miaotony.xyz/2021/01/31/CTF_web_CommandExecutionLimitedLength/)  
-
-最近打CTF做web题的时候遇到了限制长度的命令执行，查了一些资料，正好就来总结一下一些相关的小技巧吧，喵~  
 
 
 
