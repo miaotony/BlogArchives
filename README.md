@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 GZTime's 元旦红包解谜 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-01-01 21:00 UTC+8  
+[https://miaotony.xyz/2022/01/01/CTF_2022GZTime0101/](https://miaotony.xyz/2022/01/01/CTF_2022GZTime0101/)  
+
+2022新年快乐！来看了看GZTime的元旦解谜，随便写了写题解啦。  
+
+
 ### CTF | 2021 AsuriCTF / NUAACTF Misc 部分官方 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2021-12-16 23:20 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/02/07/CTF_2021HgameWeek1/](https://miaotony.xyz/2021/02/07/CTF_2021HgameWeek1/)  
 
 又是一年一度杭电举办的Hgame，感觉今年来的人更多了。题目还是挺有趣也有些梯度的，第一周做了不少题，这里来写写WriteUp。  
-
-
-### CTF | 2021 春秋杯 新年欢乐赛 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-02-03 22:30 UTC+8  
-[https://miaotony.xyz/2021/02/03/CTF_2021chunqiu/](https://miaotony.xyz/2021/02/03/CTF_2021chunqiu/)  
-
-前几天有个春秋杯新年欢乐赛，有点感兴趣就来看看题了。说好的欢乐赛，其实一点都不欢乐，太坏了！  
 
 
 
