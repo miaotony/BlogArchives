@@ -375,4 +375,4 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 最终解释权归本项目开发者所有。  
 The final interpretation right belongs to the developer of the project.  
 
-Copyright © 2020-2021 [MiaoTony](https://github.com/miaotony)  
+Copyright © 2020-2022 [MiaoTony](https://github.com/miaotony)  
