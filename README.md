@@ -44,6 +44,22 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 Hgame Week2 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-02-07 21:00 UTC+8  
+[https://miaotony.xyz/2022/02/07/CTF_2022HgameWeek2/](https://miaotony.xyz/2022/02/07/CTF_2022HgameWeek2/)  
+
+喵呜，随便来记录一下Hgame Week2的一点点WriteUp。  
+
+
+### CTF | 2022 Hgame Week1 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-01-29 22:00 UTC+8  
+[https://miaotony.xyz/2022/01/29/CTF_2022HgameWeek1/](https://miaotony.xyz/2022/01/29/CTF_2022HgameWeek1/)  
+
+一年一度杭电举办的Hgame又来了。第一周的时候做了不少题，这里来随便水一下WriteUp。  
+
+
 ### CTF | 2022 GZTime's 元旦红包解谜 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-01-01 21:00 UTC+8  
@@ -346,22 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/02/12/CTF_2021HappyChineseNewYear/](https://miaotony.xyz/2021/02/12/CTF_2021HappyChineseNewYear/)  
 
 新年快乐，牛转乾坤！再来出几个题玩玩吧，meow~  
-
-
-### CTF | 2021 NewsCTF 新春赛 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-02-11 14:00 UTC+8  
-[https://miaotony.xyz/2021/02/11/CTF_2021NewsCTF/](https://miaotony.xyz/2021/02/11/CTF_2021NewsCTF/)  
-
-看群里师傅说这几天NewsCTF有个新春小比赛，做出题目还送红包，顺手就来看看了。  
-
-
-### CTF | 2021 Hgame Week1 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-02-07 22:00 UTC+8  
-[https://miaotony.xyz/2021/02/07/CTF_2021HgameWeek1/](https://miaotony.xyz/2021/02/07/CTF_2021HgameWeek1/)  
-
-又是一年一度杭电举办的Hgame，感觉今年来的人更多了。题目还是挺有趣也有些梯度的，第一周做了不少题，这里来写写WriteUp。  
 
 
 
