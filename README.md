@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Pentest | 2022 1337UP LIVE CTF Workthrough
+[#Pentest](https://miaotony.xyz/categories/Pentest/)   
+2022-03-13 17:30 UTC+8  
+[https://miaotony.xyz/2022/03/13/Pentest_2022_1337UPLIVECTF/](https://miaotony.xyz/2022/03/13/Pentest_2022_1337UPLIVECTF/)  
+
+这周末看了看2022 1337UP LIVE CTF国际赛中的一道偏渗透的题目，这里来记录一下解题过程。  
+
+
 ### CTF | 2022 Hgame Week2 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-02-07 21:00 UTC+8  
@@ -354,14 +362,6 @@ Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随�
 [https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/](https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/)  
 
 过年啦！这篇是Hgame 2021第二周的WriteUp，随意写了写喵~  
-
-
-### 2021 牛年大吉！又是一年解谜闯关
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-02-12 00:00 UTC+8  
-[https://miaotony.xyz/2021/02/12/CTF_2021HappyChineseNewYear/](https://miaotony.xyz/2021/02/12/CTF_2021HappyChineseNewYear/)  
-
-新年快乐，牛转乾坤！再来出几个题玩玩吧，meow~  
 
 
 
