@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### EE | Sipeed 荔枝派 LicheeRV | 1 开箱及上手入门
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#EE](https://miaotony.xyz/categories/Tech/EE/)   
+2022-03-20 23:30 UTC+8  
+[https://miaotony.xyz/2022/03/20/EE_LicheeRV_1_getting_started/](https://miaotony.xyz/2022/03/20/EE_LicheeRV_1_getting_started/)  
+
+有新玩具了！最近整了个Sipeed 荔枝派 LicheeRV Dock 全志D1开发板，这篇博客就来记录一下开箱和上手的一些折腾过程。  
+
+
 ### Pentest | 2022 1337UP LIVE CTF Workthrough
 [#Pentest](https://miaotony.xyz/categories/Pentest/)   
 2022-03-13 17:30 UTC+8  
@@ -354,14 +362,6 @@ Hgame 2021完结撒花！这篇是第四周的writeup，这周题目好难啊喵
 [https://miaotony.xyz/2021/02/23/CTF_2021HgameWeek3/](https://miaotony.xyz/2021/02/23/CTF_2021HgameWeek3/)  
 
 Hgame第三周好难啊！过年比较忙，这周比较划水，writeup就随手写写吧。  
-
-
-### CTF | 2021 Hgame Week2 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-02-15 22:00 UTC+8  
-[https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/](https://miaotony.xyz/2021/02/15/CTF_2021HgameWeek2/)  
-
-过年啦！这篇是Hgame 2021第二周的WriteUp，随意写了写喵~  
 
 
 
