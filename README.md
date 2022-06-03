@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 CISCN 初赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-05-31 20:26 UTC+8  
+[https://miaotony.xyz/2022/05/31/CTF_2022CISCN_preliminary/](https://miaotony.xyz/2022/05/31/CTF_2022CISCN_preliminary/)  
+
+又是一年一度的国赛，今年知识问答和场景实操加起来持续10h，比去年轻松了不少，这篇来记录一下初赛的writeup。  
+
+
 ### CTF | 2022 未知之境 腾讯网络安全T-Star高校挑战赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-04-26 20:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/](https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/)  
 
 周末有个V&amp;NCTF，题目是V&amp;N战队中大一大二的小师傅们出的，比赛结束前来看了一眼，做了几个题玩玩。  
-
-
-### CTF | 2021 AntCTF x D^3CTF WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-03-09 20:30 UTC+8  
-[https://miaotony.xyz/2021/03/09/CTF_2021Ant-D3CTF/](https://miaotony.xyz/2021/03/09/CTF_2021Ant-D3CTF/)  
-
-前几天打了个AntCTF x D^3CTF，题目还是挺有难度的，喵喵只会签到问卷和虚拟机了，这就爬走。  
 
 
 
