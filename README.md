@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 MRCTF WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-06-30 21:06 UTC+8  
+[https://miaotony.xyz/2022/06/30/CTF_2022MRCTF/](https://miaotony.xyz/2022/06/30/CTF_2022MRCTF/)  
+
+四月底的一个周末，和群友组了个小队，来这个比赛打着玩一玩。  
+
+
 ### CTF | 2022 CISCN 初赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-05-31 20:26 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/03/25/Server_DN42/](https://miaotony.xyz/2021/03/25/Server_DN42/)  
 
 最近几天入了DN42的坑，申请了ASN、IP、域名，搭建了VPN通信隧道，配置好BGP路由，完成了和其他网络的Peer。  
-
-
-### CTF | 2021 V&NCTF 公开赛 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-03-15 20:30 UTC+8  
-[https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/](https://miaotony.xyz/2021/03/15/CTF_2021VNCTF/)  
-
-周末有个V&amp;NCTF，题目是V&amp;N战队中大一大二的小师傅们出的，比赛结束前来看了一眼，做了几个题玩玩。  
 
 
 
