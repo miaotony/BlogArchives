@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 ByteCTF WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-09-30 20:10 UTC+8  
+[https://miaotony.xyz/2022/09/30/CTF_2022ByteCTF/](https://miaotony.xyz/2022/09/30/CTF_2022ByteCTF/)  
+
+上周末打了下ByteCTF，题目还是挺不错的，可是喵喵太菜，这里只能来写点简单题的writeup了。  
+
+
 ### CTF | 2022 MRCTF WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-06-30 21:06 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/04/04/CTF_2021HFCTF/](https://miaotony.xyz/2021/04/04/CTF_2021HFCTF/)  
 
 貌似有一段时间没打CTF了，手有点生了。今年的虎符来的有点早，还赶上了清明假期，就来随意看看题好了吧。  
-
-
-### DN42 | 入坑 DN42 实验网络
-[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
-2021-03-25 21:20 UTC+8  
-[https://miaotony.xyz/2021/03/25/Server_DN42/](https://miaotony.xyz/2021/03/25/Server_DN42/)  
-
-最近几天入了DN42的坑，申请了ASN、IP、域名，搭建了VPN通信隧道，配置好BGP路由，完成了和其他网络的Peer。  
 
 
 
