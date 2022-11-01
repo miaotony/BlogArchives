@@ -44,12 +44,20 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 USTC Hackergame WriteUp 0x03
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-10-31 21:25 UTC+8  
+[https://miaotony.xyz/2022/10/31/CTF_2022Hackergame_0x03/](https://miaotony.xyz/2022/10/31/CTF_2022Hackergame_0x03/)  
+
+这是2022 Hackergame的wp第三部分，主要包括一些难度稍大的题目，以及喵喵的碎碎念，总之学到了许多。  
+
+
 ### CTF | 2022 USTC Hackergame WriteUp 0x02
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-10-30 23:20 UTC+8  
 [https://miaotony.xyz/2022/10/30/CTF_2022Hackergame_0x02/](https://miaotony.xyz/2022/10/30/CTF_2022Hackergame_0x02/)  
 
-这是2022 Hackergame的wp第二部分，主要包括一些难度稍大的题目以及喵喵的碎碎念，学到了许多。  
+这是2022 Hackergame的wp第二部分，主要包括一些难度稍大的题目，以binary类型为主。  
 
 
 ### CTF | 2022 USTC Hackergame WriteUp 0x01
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/](https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/)  
 
 五一之前打了个蓝帽杯，这里摸鱼写写一道Misc题目的题解好了。  
-
-
-### CTF | 2021 MRCTF WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-04-15 20:30 UTC+8  
-[https://miaotony.xyz/2021/04/15/CTF_2021MRCTF/](https://miaotony.xyz/2021/04/15/CTF_2021MRCTF/)  
-
-前几天看北邮天璇Merak战队整了个招新赛，喵喵也来随便玩玩好了！题目还是比较顶的，巨大多“签到”题目，然而喵喵并不能check in...  
 
 
 
