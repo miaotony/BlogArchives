@@ -76,6 +76,14 @@ WeChat:
 上周末打了下ByteCTF，题目还是挺不错的，可是喵喵太菜，这里只能来写点简单题的writeup了。  
 
 
+### CTF | 2022 强网杯 S6 线上初赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-08-02 21:16 UTC+8  
+[https://miaotony.xyz/2022/08/02/CTF_2022qiangwang/](https://miaotony.xyz/2022/08/02/CTF_2022qiangwang/)  
+
+今年和校内的几个师傅一起打了下强网杯，题目还是一如既往的顶啊，只能水个强网先锋了，这里随便贴一下wp好了。  
+
+
 ### CTF | 2022 MRCTF WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-06-30 21:06 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/](https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/)  
 
 在NUAACTF 2021中，有一道XSS相关的题目，主要涉及XSS绕过、PHP代码审计、文件上传绕过，难度其实还好。最近摸鱼，就来复现一下吧。  
-
-
-### CTF | 2021 蓝帽杯 Misc 冬奥会_is_coming WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-09 20:10 UTC+8  
-[https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/](https://miaotony.xyz/2021/05/09/CTF_2021BlueHat/)  
-
-五一之前打了个蓝帽杯，这里摸鱼写写一道Misc题目的题解好了。  
 
 
 
