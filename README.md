@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 PKU GeekGame 2nd WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-11-30 19:20 UTC+8  
+[https://miaotony.xyz/2022/11/30/CTF_2022PKUGeekGame/](https://miaotony.xyz/2022/11/30/CTF_2022PKUGeekGame/)  
+
+第二届PKU GeekGame来了，今年这个时间段事情比较多没啥时间打，再加上比赛题目的难度也不小，只能在结束之前勉强上个总榜了……  
+
+
 ### CTF | 2022 USTC Hackergame WriteUp 0x03
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-10-31 21:25 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/24/CTF_2021RedHat/](https://miaotony.xyz/2021/05/24/CTF_2021RedHat/)  
 
 前段时间打了个红帽杯，不过这段时间比较忙一直没空整理。趁着今天摸鱼，就来复现几道题好了。  
-
-
-### CTF | 2021 NUAACTF Easy_XSS 复现
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-17 20:10 UTC+8  
-[https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/](https://miaotony.xyz/2021/05/17/CTF_2021NUAACTF_EasyXSS/)  
-
-在NUAACTF 2021中，有一道XSS相关的题目，主要涉及XSS绕过、PHP代码审计、文件上传绕过，难度其实还好。最近摸鱼，就来复现一下吧。  
 
 
 
