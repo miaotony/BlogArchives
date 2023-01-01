@@ -84,6 +84,14 @@ WeChat:
 上周末打了下ByteCTF，题目还是挺不错的，可是喵喵太菜，这里只能来写点简单题的writeup了。  
 
 
+### CTF | 2022 网鼎杯初赛 青龙组 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2022-08-28 20:06 UTC+8  
+[https://miaotony.xyz/2022/08/28/CTF_2022wangding_qinglong/](https://miaotony.xyz/2022/08/28/CTF_2022wangding_qinglong/)  
+
+两年一度的网鼎杯如约而至，喵喵坐牢了一天，这里随便写写writeup吧。  
+
+
 ### CTF | 2022 强网杯 S6 线上初赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-08-02 21:16 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/](https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/)  
 
 又是一年一度的国赛，连续打24h太难受啦！这里把几道misc题目写一写好了。  
-
-
-### CTF | 2021 红帽杯 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-24 22:30 UTC+8  
-[https://miaotony.xyz/2021/05/24/CTF_2021RedHat/](https://miaotony.xyz/2021/05/24/CTF_2021RedHat/)  
-
-前段时间打了个红帽杯，不过这段时间比较忙一直没空整理。趁着今天摸鱼，就来复现几道题好了。  
 
 
 
