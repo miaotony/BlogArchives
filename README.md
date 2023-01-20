@@ -23,9 +23,9 @@ Issues or/and PRs are welcome~
 
 **GitHub:** https://github.com/miaotony **欢迎来 follow 呀！**  
 
-**Telegram:** [@miaotony](https://t.me/miaotony)  
+**Telegram:** Contact me via [@meow_portal_bot](https://t.me/meow_portal_bot)  
 
-**Telegram Channel:** [@MiaoTonyChannel](https://t.me/MiaoTonyChannel)  
+**Telegram Channel:** [@meow233](https://t.me/meow233)  
 
 **Email:** bWlhb3RvbnlAb3V0bG9vay5jb20= | b64decode  
 
@@ -375,4 +375,4 @@ WeChat:
 最终解释权归本项目开发者所有。  
 The final interpretation right belongs to the developer of the project.  
 
-Copyright © 2020-2022 [MiaoTony](https://github.com/miaotony)  
+Copyright © 2020-2023 [MiaoTony](https://github.com/miaotony)  
