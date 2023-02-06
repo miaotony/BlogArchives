@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2022 西湖论剑·中国杭州网络安全技能大赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2023-02-04 21:50 UTC+8  
+[https://miaotony.xyz/2023/02/04/CTF_2022xihulunjian/](https://miaotony.xyz/2023/02/04/CTF_2022xihulunjian/)  
+
+农历兔年到来的第一场CTF比赛，和校队的小师傅佛系看了看题目，学习学习练练手写写writeup记录下好了。  
+
+
 ### CTF | 2022 PKU GeekGame 2nd WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-11-30 19:20 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/26/CTF_2021MeiTuan/](https://miaotony.xyz/2021/05/26/CTF_2021MeiTuan/)  
 
 周末有个美团网络安全高校挑战赛（MTCTF），晚上吃完饭来看了一眼，做了俩misc题玩玩。  
-
-
-### CTF | 2021 CISCN初赛 Misc WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-25 20:15 UTC+8  
-[https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/](https://miaotony.xyz/2021/05/25/CTF_2021CISCN_preliminary/)  
-
-又是一年一度的国赛，连续打24h太难受啦！这里把几道misc题目写一写好了。  
 
 
 
