@@ -60,6 +60,14 @@ WeChat:
 农历兔年到来的第一场CTF比赛，和校队的小师傅佛系看了看题目，学习学习练练手写写writeup记录下好了。  
 
 
+### HomeLab | 1 Proxmox Virtual Environment(PVE) 安装及配置
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2022-12-18 23:30 UTC+8  
+[https://miaotony.xyz/2022/12/18/Server_HomeLab_1_PVEsetup/](https://miaotony.xyz/2022/12/18/Server_HomeLab_1_PVEsetup/)  
+
+哪个男孩子不想整个自己的HomeLab呢？这个系列就来说一说喵喵搞机的故事，这篇博客主要记录一下PVE安装和配置的过程喵~  
+
+
 ### CTF | 2022 PKU GeekGame 2nd WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2022-11-30 19:20 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/05/31/CTF_2021chunqiu_Baby_steg/](https://miaotony.xyz/2021/05/31/CTF_2021chunqiu_Baby_steg/)  
 
 周末比赛多多，春秋杯的话就看了Misc Baby_steg一题，其中有几个之前没见过的点，这里顺手记录一下。  
-
-
-### CTF | 2021 DASCTF May WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-30 21:30 UTC+8  
-[https://miaotony.xyz/2021/05/30/CTF_2021DASCTF_May/](https://miaotony.xyz/2021/05/30/CTF_2021DASCTF_May/)  
-
-这周末比赛好多啊，DASCTF May这次比较基础，于是看其他比赛题目之余摸鱼做了做misc题。  
 
 
 
