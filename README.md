@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2023 第八届上海市大学生网络安全大赛 / 磐石行动 CTF部分 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2023-05-25 21:20 UTC+8  
+[https://miaotony.xyz/2023/05/25/CTF_2023ShanghaiPanshixingdong/](https://miaotony.xyz/2023/05/25/CTF_2023ShanghaiPanshixingdong/)  
+
+上海市赛又来了，今年的比赛分为CTF和漏洞挖掘两部分，这篇博客就来记录下CTF部分的writeup，有些题目喵喵卡住了赛后又来复现了一下。  
+
+
 ### CTF | 2023 阿里云CTF / AliyunCTF WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2023-04-25 21:15 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/](https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/)  
 
 六一那几天有个小比赛，不过比较忙就简单看了几个题，随意写写好了。  
-
-
-### CTF | 2021 春秋杯 Baby_steg WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-05-31 16:30 UTC+8  
-[https://miaotony.xyz/2021/05/31/CTF_2021chunqiu_Baby_steg/](https://miaotony.xyz/2021/05/31/CTF_2021chunqiu_Baby_steg/)  
-
-周末比赛多多，春秋杯的话就看了Misc Baby_steg一题，其中有几个之前没见过的点，这里顺手记录一下。  
 
 
 
