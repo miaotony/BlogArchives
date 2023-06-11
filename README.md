@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Pentest | 2023 第八届上海市大学生网络安全大赛 / 磐石行动 漏洞挖掘 Walkthrough
+[#Pentest](https://miaotony.xyz/categories/Pentest/)   
+2023-05-30 20:25 UTC+8  
+[https://miaotony.xyz/2023/05/30/Pentest_2023ShanghaiPanshixingdong/](https://miaotony.xyz/2023/05/30/Pentest_2023ShanghaiPanshixingdong/)  
+
+今年的上海市赛新加了漏洞挖掘环节，实际上是给了四套自带内网的靶场让选手打渗透，两天打下来感觉还是挺坑的，这篇博客就来记录下渗透挖洞的过程吧。  
+
+
 ### CTF | 2023 第八届上海市大学生网络安全大赛 / 磐石行动 CTF部分 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2023-05-25 21:20 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/](https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/)  
 
 五月底的DozerCTF中有个域渗透的题目，还是挺有意思的，趁这个机会就来学一下相关的知识，来练练手。  
-
-
-### CTF | 2021 NewsCTF 6.1萌新赛 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-06-18 21:30 UTC+8  
-[https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/](https://miaotony.xyz/2021/06/18/CTF_2021NewsCTF0601/)  
-
-六一那几天有个小比赛，不过比较忙就简单看了几个题，随意写写好了。  
 
 
 
