@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2023-06-02 20:46 UTC+8  
+[https://miaotony.xyz/2023/06/02/CTF_2023CISCN_preliminary/](https://miaotony.xyz/2023/06/02/CTF_2023CISCN_preliminary/)  
+
+又是一年一度的国赛，非常感谢队友带喵喵进了分区赛，这里来记录一下初赛的writeup。  
+
+
 ### Pentest | 2023 第八届上海市大学生网络安全大赛 / 磐石行动 漏洞挖掘 Walkthrough
 [#Pentest](https://miaotony.xyz/categories/Pentest/)   
 2023-05-30 20:25 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/](https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/)  
 
 强网杯打得太顶太刺激了，题目还是挺有难度的，和队友一起来看了些题，之后又复现了一下。  
-
-
-### Pentest | 2021 DozerCTF 域渗透 Workthrough
-[#Pentest](https://miaotony.xyz/categories/Pentest/)   
-2021-06-20 21:30 UTC+8  
-[https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/](https://miaotony.xyz/2021/06/20/Pentest_2021DozerCTF/)  
-
-五月底的DozerCTF中有个域渗透的题目，还是挺有意思的，趁这个机会就来学一下相关的知识，来练练手。  
 
 
 
