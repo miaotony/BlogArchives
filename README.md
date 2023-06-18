@@ -188,7 +188,7 @@ WeChat:
 有新玩具了！最近整了个Sipeed 荔枝派 LicheeRV Dock 全志D1开发板，这篇博客就来记录一下开箱和上手的一些折腾过程。  
 
 
-### Pentest | 2022 1337UP LIVE CTF Workthrough
+### Pentest | 2022 1337UP LIVE CTF Walkthrough
 [#Pentest](https://miaotony.xyz/categories/Pentest/)   
 2022-03-13 17:30 UTC+8  
 [https://miaotony.xyz/2022/03/13/Pentest_2022_1337UPLIVECTF/](https://miaotony.xyz/2022/03/13/Pentest_2022_1337UPLIVECTF/)  
