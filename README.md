@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### HomeLab | 2 OpenMediaVault 安装 & 硬盘直通 & 相关配置
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2023-06-10 22:30 UTC+8  
+[https://miaotony.xyz/2023/06/10/Server_HomeLab_2_openmediavault/](https://miaotony.xyz/2023/06/10/Server_HomeLab_2_openmediavault/)  
+
+大概介绍了一下 OpenMediaVault 的安装，硬盘直通，RAID 组建，LVM 配置，文件系统，文件共享，以及 OMV 里一些基本功能的使用等。  
+
+
 ### CTF | 2023 CISCN 第十六届全国大学生信息安全竞赛 初赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2023-06-02 20:46 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/07/15/CTF_2021TCTF-0CTF/](https://miaotony.xyz/2021/07/15/CTF_2021TCTF-0CTF/)  
 
 前不久有个TCTF/0CTF 2021线上预选赛，题目好难啊，只有几个老人在玩，最后只打到了RisingStar Scoreboard第13，么得去玩了，呜呜。  
-
-
-### CTF | 2021 强网杯线上赛 Web&Misc WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-06-28 20:30 UTC+8  
-[https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/](https://miaotony.xyz/2021/06/28/CTF_2021qiangwang/)  
-
-强网杯打得太顶太刺激了，题目还是挺有难度的，和队友一起来看了些题，之后又复现了一下。  
 
 
 
