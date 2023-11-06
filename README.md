@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2023 USTC Hackergame WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2023-11-05 20:40 UTC+8  
+[https://miaotony.xyz/2023/11/05/CTF_2023Hackergame/](https://miaotony.xyz/2023/11/05/CTF_2023Hackergame/)  
+
+又是一年Hackergame，今年题目难度整体偏基础好入门，给这周增添了点娱乐气息，和往年一样比赛中也学到了许多。  
+
+
 ### HomeLab | 2 OpenMediaVault 安装 & 硬盘直通 & 相关配置
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2023-06-10 22:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/](https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/)  
 
 上个月底偶尔看到了个纳新的渗透测试题目，来摸鱼玩了玩，这里就随意记录一下。  
-
-
-### CTF | 2021 TCTF/0CTF Quals WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-07-15 20:30 UTC+8  
-[https://miaotony.xyz/2021/07/15/CTF_2021TCTF-0CTF/](https://miaotony.xyz/2021/07/15/CTF_2021TCTF-0CTF/)  
-
-前不久有个TCTF/0CTF 2021线上预选赛，题目好难啊，只有几个老人在玩，最后只打到了RisingStar Scoreboard第13，么得去玩了，呜呜。  
 
 
 
