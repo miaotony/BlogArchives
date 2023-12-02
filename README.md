@@ -52,6 +52,14 @@ WeChat:
 又是一年Hackergame，今年题目难度整体偏基础好入门，给这周增添了点娱乐气息，和往年一样比赛中也学到了许多。  
 
 
+### HomeLab | 3 下载观影一条龙：NASTool/JellyFin/qBittorrent 半自动化家庭影院搭建指北
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2023-08-08 21:30 UTC+8  
+[https://miaotony.xyz/2023/08/08/Server_HomeLab_3_nastools/](https://miaotony.xyz/2023/08/08/Server_HomeLab_3_nastools/)  
+
+探索如何使用NASTool、JellyFin和qBittorrent等工具搭建一个高效的半自动化家庭影院系统，实现从下载到播放的无缝体验。  
+
+
 ### HomeLab | 2 OpenMediaVault 安装 & 硬盘直通 & 相关配置
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2023-06-10 22:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/](https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/)  
 
 前段时间去郑州打了个强网杯S5线下赛，顺便和师傅们在附近玩了玩，这里来写一下游记吧，喵~  
-
-
-### Pentest | 2021 百灵鸟团队纳新玩家活动 Bludit v3.12.0 WriteUp
-[#Pentest](https://miaotony.xyz/categories/Pentest/)   
-2021-07-18 19:30 UTC+8  
-[https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/](https://miaotony.xyz/2021/07/18/Pentest_2021bailingniao_Bludit/)  
-
-上个月底偶尔看到了个纳新的渗透测试题目，来摸鱼玩了玩，这里就随意记录一下。  
 
 
 
