@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### HomeLab | 4 GPU 硬解新境界：LXC 环境下玩转 JellyFin 核显硬解转码
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
+2023-11-26 20:30 UTC+8  
+[https://miaotony.xyz/2023/11/26/Server_HomeLab_4_GPUtranscoding/](https://miaotony.xyz/2023/11/26/Server_HomeLab_4_GPUtranscoding/)  
+
+在PVE里基于LXC安装JellyFin，并利用GPU核显实现硬解加速转码。本文具体介绍了相关配置步骤，大大提升了homelab观影性能和体验感。  
+
+
 ### CTF | 2023 USTC Hackergame WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2023-11-05 20:40 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/](https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/)  
 
 前几天去广州打了第四届红帽杯网络安全大赛总决赛，这里来随便记录一下在广州的游记吧~  
-
-
-### 碎碎念 | 2021 强网杯S5 全国网络安全挑战赛线下赛 郑州游记
-[#Life](https://miaotony.xyz/categories/Life/)   
-2021-07-19 22:20 UTC+8  
-[https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/](https://miaotony.xyz/2021/07/19/Life_2021QiangwangFinal_trip/)  
-
-前段时间去郑州打了个强网杯S5线下赛，顺便和师傅们在附近玩了玩，这里来写一下游记吧，喵~  
 
 
 
