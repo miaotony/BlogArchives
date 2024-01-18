@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### CTF | 2023 强网杯 S7 线上赛 WriteUp
+[#CTF](https://miaotony.xyz/categories/CTF/)   
+2023-12-30 23:33 UTC+8  
+[https://miaotony.xyz/2023/12/30/CTF_2023qiangwang/](https://miaotony.xyz/2023/12/30/CTF_2023qiangwang/)  
+
+大概是喵喵的最后一届强网杯，今年继续和校队的师傅们一起打了下，感觉这比赛越来越卷了，而且py过于严重最后还是只能水个强网先锋，摸了。  
+
+
 ### HomeLab | 4 GPU 硬解新境界：LXC 环境下玩转 JellyFin 核显硬解转码
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#Server](https://miaotony.xyz/categories/Tech/Server/)   
 2023-11-26 20:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/](https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/)  
 
 上周末摸鱼打了下巅峰极客网络安全技能挑战赛，题目好难啊喵呜呜，就复现一下随便写写好了。  
-
-
-### 碎碎念 | 2021 红帽杯 网络安全大赛总决赛 广州游记
-[#Life](https://miaotony.xyz/categories/Life/)   
-2021-07-29 19:10 UTC+8  
-[https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/](https://miaotony.xyz/2021/07/29/Life_2021RedHatFinal_trip/)  
-
-前几天去广州打了第四届红帽杯网络安全大赛总决赛，这里来随便记录一下在广州的游记吧~  
 
 
 
