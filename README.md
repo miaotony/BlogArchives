@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Security | CVE-2026-85706 GitLab 未授权任意文件读取漏洞分析
+[#Security](https://miaotony.xyz/categories/Security/)   
+2026-09-12 21:30 UTC+8  
+[https://miaotony.xyz/2026/09/12/Vuln_CVE-2026-85706_GitLab/](https://miaotony.xyz/2026/09/12/Vuln_CVE-2026-85706_GitLab/)  
+
+九月初 GitLab 放了个 CVSS 10.0 的紧急补丁，仓库 commits API 既漏了鉴权、又直接信了客户端可控的文件路径，未登录就能读服务器上的任意文件。补丁发布第二天就有在野探测，随后进了 CISA KEV 目录。这篇博客就从 patch diff 入手，扒一扒这个洞的两个根因和官方的修复思路。  
+
+
 ### CTF | 2023 强网杯 S7 线上赛 WriteUp
 [#CTF](https://miaotony.xyz/categories/CTF/)   
 2023-12-30 23:33 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/08/10/CTF_2021DASCTF_July_cybercms/](https://miaotony.xyz/2021/08/10/CTF_2021DASCTF_July_cybercms/)  
 
 在前不久结束的DASCTF July中，有一道名为cybercms的web题目，当时打了半天没打通，赛后还是想不通就来稍微深入探究了一下。  
-
-
-### CTF | 2021 巅峰极客网络安全技能挑战赛 WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-08-07 22:30 UTC+8  
-[https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/](https://miaotony.xyz/2021/08/07/CTF_2021dianfengjike/)  
-
-上周末摸鱼打了下巅峰极客网络安全技能挑战赛，题目好难啊喵呜呜，就复现一下随便写写好了。  
 
 
 
