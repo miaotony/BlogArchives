@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Tech | Jev：不写一句话的 AI，怎么替程序做决定？
+[#Tech](https://miaotony.xyz/categories/Tech/)   [#AI](https://miaotony.xyz/categories/Tech/AI/)   
+2026-10-03 03:30 UTC+8  
+[https://miaotony.xyz/2026/10/03/Tech_Jev/](https://miaotony.xyz/2026/10/03/Tech_Jev/)  
+
+从客服工单到浏览器操作，很多 AI 任务最终只需要一个选择。本文结合 5 分钟 4K 视频，拆解 Jev 的 Choice、Score、Noul、概率与校准，以及 Awesome Jev 里的真实应用和工程限制。  
+
+
 ### Security | CVE-2026-85706 GitLab 未授权任意文件读取漏洞分析
 [#Security](https://miaotony.xyz/categories/Security/)   
 2026-09-12 21:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/](https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/)  
 
 摸鱼打了个DASCTF July，主要看了看Web和Misc题目，大部分是结束后边做边写的，写得还是挺详细的吧，当然也少不了走弯路的地方。  
-
-
-### CTF | 2021 DASCTF July cybercms 一探再探
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-08-10 22:30 UTC+8  
-[https://miaotony.xyz/2021/08/10/CTF_2021DASCTF_July_cybercms/](https://miaotony.xyz/2021/08/10/CTF_2021DASCTF_July_cybercms/)  
-
-在前不久结束的DASCTF July中，有一道名为cybercms的web题目，当时打了半天没打通，赛后还是想不通就来稍微深入探究了一下。  
 
 
 
