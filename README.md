@@ -44,6 +44,14 @@ WeChat:
 ## Archives  
 
 
+### Security | PHP2Shell：内存耗尽之后，服务器怎么就被拿下了？
+[#Security](https://miaotony.xyz/categories/Security/)   
+2026-10-22 03:30 UTC+8  
+[https://miaotony.xyz/2026/10/22/Vuln_PHP2Shell/](https://miaotony.xyz/2026/10/22/Vuln_PHP2Shell/)  
+
+结合官方公告、补丁源码与公开利用实现，拆解 PHP CVE-2026-109618 / 109619 的三条利用路径、可复用攻击原语与完整武器化链路，兼谈修复与检测。  
+
+
 ### Tech | Jev：不写一句话的 AI，怎么替程序做决定？
 [#Tech](https://miaotony.xyz/categories/Tech/)   [#AI](https://miaotony.xyz/categories/Tech/AI/)   
 2026-10-03 03:30 UTC+8  
@@ -354,14 +362,6 @@ WeChat:
 [https://miaotony.xyz/2021/08/24/CTF_2021XiangYun/](https://miaotony.xyz/2021/08/24/CTF_2021XiangYun/)  
 
 又是一个打CTF的周末，这周打了个祥云杯，喵喵主要在看Misc题目，摸鱼好累，又不能出去玩了，喵呜呜。  
-
-
-### CTF | 2021 DASCTF July X CBCTF 4th 部分WriteUp
-[#CTF](https://miaotony.xyz/categories/CTF/)   
-2021-08-15 22:30 UTC+8  
-[https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/](https://miaotony.xyz/2021/08/15/CTF_2021DASCTF_July/)  
-
-摸鱼打了个DASCTF July，主要看了看Web和Misc题目，大部分是结束后边做边写的，写得还是挺详细的吧，当然也少不了走弯路的地方。  
 
 
 
